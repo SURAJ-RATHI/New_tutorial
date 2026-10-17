@@ -1,3 +1,1296 @@
+# Profit and Loss (लाभ और हानि) — Complete Notes
+
+## Table of Contents
+
+1. Basic Terminology
+2. Profit and Loss
+3. Profit Percentage and Loss Percentage
+4. Finding Selling Price (SP)
+5. Finding Cost Price (CP)
+6. Different Approaches to Profit and Loss
+7. Successive Profit and Loss
+8. Questions with Two Selling Prices
+9. Questions Based on Number of Articles
+10. Profit Calculated on Selling Price
+11. Equal Profit and Loss
+12. Overall Profit and Loss
+13. Marked Price (MP) and Discount
+14. Successive Discounts
+15. Dishonest Shopkeeper and False Weight
+16. Common Mistakes
+17. Practice Questions
+18. Answer Key
+19. Quick Revision Sheet
+
+---
+
+# 1. Basic Terminology
+
+## 1.1 Cost Price (CP)
+
+The price at which an article is purchased.
+
+**Example:**
+
+You buy a pen for ₹50.
+
+- Cost Price (CP) = ₹50
+
+Hindi: क्रय मूल्य
+
+## 1.2 Selling Price (SP)
+
+The price at which an article is sold.
+
+**Example:**
+
+You buy a pen for ₹50 and sell it for ₹70.
+
+- CP = ₹50
+- SP = ₹70
+
+Hindi: विक्रय मूल्य
+
+## 1.3 Marked Price (MP)
+
+The price printed or displayed on an article before a discount.
+
+**Example:**
+
+A shirt has a price tag of ₹1,000, but the shopkeeper sells it for ₹800.
+
+- MP = ₹1,000
+- SP = ₹800
+
+## 1.4 Discount
+
+The reduction given on the marked price.
+
+**Formula:**
+
+Discount = MP - SP
+
+**Example:**
+
+MP = ₹1,000  
+SP = ₹800
+
+Discount = 1,000 - 800 = ₹200
+
+---
+
+# 2. Profit and Loss
+
+## 2.1 Profit
+
+When an article is sold for more than its cost price, a profit occurs.
+
+**Condition:**
+
+SP > CP
+
+**Formula:**
+
+Profit = SP - CP
+
+**Example:**
+
+CP = ₹500  
+SP = ₹700
+
+Profit = 700 - 500 = ₹200
+
+Therefore, the profit is ₹200.
+
+## 2.2 Loss
+
+When an article is sold for less than its cost price, a loss occurs.
+
+**Condition:**
+
+SP < CP
+
+**Formula:**
+
+Loss = CP - SP
+
+**Example:**
+
+CP = ₹1,000  
+SP = ₹700
+
+Loss = 1,000 - 700 = ₹300
+
+Therefore, the loss is ₹300.
+
+## 2.3 No Profit, No Loss
+
+When the selling price equals the cost price:
+
+SP = CP
+
+Profit = ₹0  
+Loss = ₹0
+
+### Remember
+
+- SP > CP → Profit
+- SP < CP → Loss
+- SP = CP → No profit, no loss
+
+---
+
+# 3. Profit Percentage and Loss Percentage
+
+## 3.1 Profit Percentage
+
+Profit percentage is always calculated on the cost price in standard profit-and-loss questions.
+
+**Formula:**
+
+Profit % = (Profit / CP) × 100
+
+**Example:**
+
+CP = ₹800  
+SP = ₹1,000
+
+Profit = 1,000 - 800 = ₹200
+
+Profit % = (200 / 800) × 100
+
+Profit % = 25%
+
+## 3.2 Loss Percentage
+
+**Formula:**
+
+Loss % = (Loss / CP) × 100
+
+**Example:**
+
+CP = ₹1,000  
+SP = ₹700
+
+Loss = 1,000 - 700 = ₹300
+
+Loss % = (300 / 1,000) × 100
+
+Loss % = 30%
+
+### Important Rule
+
+Both standard profit percentage and standard loss percentage use CP in the denominator.
+
+Do not divide by SP unless the question specifically says that profit or loss is calculated on the selling price.
+
+---
+
+# 4. Finding Selling Price (SP)
+
+## 4.1 When Profit Percentage Is Given
+
+**Formula:**
+
+SP = CP × (100 + Profit %) / 100
+
+**Example:**
+
+CP = ₹1,500  
+Profit = 10%
+
+SP = 1,500 × 110 / 100
+
+SP = ₹1,650
+
+### Shortcut
+
+For a 10% profit:
+
+SP = CP × 110/100
+
+For a 20% profit:
+
+SP = CP × 120/100
+
+For a 25% profit:
+
+SP = CP × 125/100
+
+## 4.2 When Loss Percentage Is Given
+
+**Formula:**
+
+SP = CP × (100 - Loss %) / 100
+
+**Example:**
+
+CP = ₹1,600  
+Loss = 20%
+
+SP = 1,600 × 80 / 100
+
+SP = ₹1,280
+
+### Shortcut
+
+For a 20% loss:
+
+SP = CP × 80/100
+
+For a 30% loss:
+
+SP = CP × 70/100
+
+For a 15% loss:
+
+SP = CP × 85/100
+
+---
+
+# 5. Finding Cost Price (CP)
+
+## 5.1 When SP and Profit Percentage Are Given
+
+**Formula:**
+
+CP = SP × 100 / (100 + Profit %)
+
+**Example:**
+
+SP = ₹1,200  
+Profit = 20%
+
+CP = 1,200 × 100 / 120
+
+CP = ₹1,000
+
+## 5.2 When SP and Loss Percentage Are Given
+
+**Formula:**
+
+CP = SP × 100 / (100 - Loss %)
+
+**Example:**
+
+SP = ₹800  
+Loss = 20%
+
+CP = 800 × 100 / 80
+
+CP = ₹1,000
+
+### Remember
+
+- Finding SP with profit → Add the percentage to 100.
+- Finding SP with loss → Subtract the percentage from 100.
+- Finding CP with profit → Divide by (100 + profit percentage).
+- Finding CP with loss → Divide by (100 - loss percentage).
+
+---
+
+# 6. Different Approaches to Profit and Loss
+
+The lesson explains several approaches. You can use whichever is easiest for you.
+
+## Approach 1: Basic or NCERT Approach
+
+Calculate the profit or loss first, then calculate the percentage.
+
+**Example:**
+
+CP = ₹800  
+Profit = 10%
+
+Profit = 10% of 800 = ₹80
+
+SP = 800 + 80 = ₹880
+
+This approach is useful when you want to understand the concept clearly.
+
+## Approach 2: Zoom or Fraction Approach
+
+Convert the percentage into a fraction.
+
+Examples:
+
+- 10% = 1/10
+- 20% = 1/5
+- 25% = 1/4
+- 30% = 3/10
+- 40% = 2/5
+- 12.5% = 1/8
+- 16⅔% = 1/6
+
+### Example: 10% Profit
+
+CP = ₹1,500
+
+A 10% profit means the profit is 1/10 of CP.
+
+Profit = 1,500/10 = ₹150
+
+SP = 1,500 + 150 = ₹1,650
+
+## Approach 3: Chain or Multiplier Approach
+
+This is a fast approach for competitive exams.
+
+### Profit
+
+SP = CP × (100 + Profit %) / 100
+
+### Loss
+
+SP = CP × (100 - Loss %) / 100
+
+**Example: 10% Profit**
+
+CP = ₹1,500
+
+SP = 1,500 × 110/100
+
+SP = ₹1,650
+
+**Example: 20% Loss**
+
+CP = ₹1,600
+
+SP = 1,600 × 80/100
+
+SP = ₹1,280
+
+## Approach 4: Ratio Approach
+
+Assume CP = 100 units.
+
+For 10% profit:
+
+CP : SP = 100 : 110 = 10 : 11
+
+For 20% loss:
+
+CP : SP = 100 : 80 = 5 : 4
+
+### Example
+
+CP = ₹1,500 and profit = 10%.
+
+CP : SP = 10 : 11
+
+10 units = ₹1,500
+
+1 unit = ₹150
+
+SP = 11 × 150 = ₹1,650
+
+### When to Use Ratio Approach
+
+Use it when:
+- The question involves multiple articles.
+- Different profit or loss percentages are given.
+- You need to compare two selling prices.
+- Actual values are not directly provided.
+
+---
+
+# 7. Successive Profit and Loss
+
+Successive profit or loss means that the same article passes through more than one transaction.
+
+For example:
+- A person buys an article.
+- He sells it at a profit.
+- The next person sells it again at another profit.
+
+Each percentage applies to the value at that stage.
+
+## 7.1 Successive Profit
+
+**Example:**
+
+An article costs ₹1,500. It is sold at a 10% profit. The buyer then sells it at a 20% profit.
+
+First transaction:
+
+SP₁ = 1,500 × 110/100
+
+SP₁ = ₹1,650
+
+Second transaction:
+
+SP₂ = 1,650 × 120/100
+
+SP₂ = ₹1,980
+
+Final selling price = ₹1,980
+
+### Direct Formula
+
+Final value = Initial value × (1 + p/100) × (1 + q/100)
+
+Here, p and q are profit percentages.
+
+For two successive profits:
+
+Equivalent profit % = p + q + (pq/100)
+
+For 10% and 20%:
+
+Equivalent profit = 10 + 20 + (10 × 20)/100
+
+Equivalent profit = 32%
+
+So the final value is:
+
+1,500 × 132/100 = ₹1,980
+
+**Important:** Two successive profits of 10% and 20% give a total profit of 32%, not 30%.
+
+## 7.2 Successive Loss
+
+For two successive losses:
+
+Equivalent loss % = p + q - (pq/100)
+
+**Example:**
+
+An article suffers successive losses of 10% and 20%.
+
+Equivalent loss = 10 + 20 - (10 × 20)/100
+
+Equivalent loss = 28%
+
+## 7.3 Profit Followed by Loss
+
+Use multipliers.
+
+For 10% profit followed by 20% loss:
+
+Final value = Initial value × 110/100 × 80/100
+
+= Initial value × 0.88
+
+Therefore, the overall result is a 12% loss.
+
+### General Rule
+
+- Profit → Multiply by (100 + p)/100
+- Loss → Multiply by (100 - p)/100
+
+For three or more transactions, multiply all the appropriate factors.
+
+---
+
+# 8. Questions with Two Selling Prices
+
+These questions give different selling prices for different profit or loss percentages.
+
+## Example 1: Find the Selling Price for a Desired Profit
+
+An article is sold for ₹284 at a loss of 29%. At what price should it be sold to gain 35%?
+
+### Step 1: Convert percentages into ratios
+
+At 29% loss:
+
+CP : SP = 100 : 71
+
+At 35% profit:
+
+CP : SP = 100 : 135
+
+### Step 2: Use the known selling price
+
+71 ratio units = ₹284
+
+1 unit = 284/71 = ₹4
+
+### Step 3: Find the required selling price
+
+Required SP = 135 × 4
+
+Required SP = ₹540
+
+**Answer: ₹540**
+
+## Example 2: Difference Between Two Selling Prices
+
+An article is sold at a 15% profit in one case and a 17% loss in another. The difference between the two selling prices is ₹64. Find the selling price at a 10% profit.
+
+Assume CP = 100 units.
+
+At 15% profit:
+
+SP₁ = 115 units
+
+At 17% loss:
+
+SP₂ = 83 units
+
+Difference = 115 - 83 = 32 units
+
+32 units = ₹64
+
+1 unit = ₹2
+
+CP = 100 × 2 = ₹200
+
+At 10% profit:
+
+SP = 110 × 2
+
+SP = ₹220
+
+**Answer: ₹220**
+
+### Shortcut
+
+When the two cases are one profit and one loss:
+
+Difference in ratio units = Profit % + Loss %
+
+In the example:
+
+15 + 17 = 32 units
+
+Be careful: this shortcut works when both percentages are calculated on the same CP.
+
+---
+
+# 9. Questions Based on Number of Articles
+
+These questions use the cost price or selling price of multiple articles.
+
+## Example 1: CP of 15 Articles Equals SP of 10 Articles
+
+The cost price of 15 articles equals the selling price of 10 articles. Find the loss percentage.
+
+Let CP of one article = C and SP of one article = S.
+
+15C = 10S
+
+Therefore:
+
+S/C = 15/10 = 3/2
+
+This means SP is greater than CP.
+
+So this condition actually gives a profit, not a loss.
+
+Profit ratio = 3 - 2 = 1
+
+Profit % = (1/2) × 100 = 50%
+
+**Answer: 50% profit**
+
+### Important Lesson
+
+Always write the equation exactly as given.
+
+If:
+
+- CP of 15 articles = SP of 10 articles,
+
+then:
+
+15C = 10S
+
+Do not reverse the numbers. Reversing them changes the answer.
+
+## Example 2: CP of 10 Articles Equals SP of 15 Articles
+
+10C = 15S
+
+S/C = 10/15 = 2/3
+
+CP : SP = 3 : 2
+
+Loss ratio = 3 - 2 = 1
+
+Loss % = (1/3) × 100
+
+Loss = 33⅓%
+
+**Answer: 33⅓% loss**
+
+## Example 3: Selling 2 Articles Gives a Profit Equal to CP of 5 Articles
+
+A person earns a profit equal to the cost price of 5 articles by selling 2 articles. Find the profit percentage.
+
+Let CP of one article = C and SP of one article = S.
+
+Profit on 2 articles:
+
+2S - 2C = 5C
+
+2S = 7C
+
+Therefore:
+
+S/C = 7/2
+
+Profit on one article = 7 - 2 = 5 ratio units.
+
+Profit % = (5/2) × 100
+
+Profit = 250%
+
+**Answer: 250% profit**
+
+### Important Concept
+
+If a question explicitly states that profit or loss occurred after selling a certain number of articles, the number purchased is often implied to be the same number, unless the question says otherwise.
+
+Read the statement carefully before making this assumption.
+
+---
+
+# 10. Profit Calculated on Selling Price
+
+This is a special type of question.
+
+Normally:
+
+Profit % = (Profit / CP) × 100
+
+But a question may say that profit is 20% of SP.
+
+Then:
+
+Profit / SP = 20/100
+
+Let SP = 5 units.
+
+Profit = 1 unit.
+
+Since:
+
+SP = CP + Profit
+
+CP = 5 - 1 = 4 units
+
+Actual profit percentage:
+
+Profit % = (1/4) × 100
+
+Profit = 25%
+
+**Answer: 25% actual profit**
+
+### Shortcut Formula
+
+If profit is p% of SP:
+
+Actual profit % = [p / (100 - p)] × 100
+
+For 20% profit on SP:
+
+= 20/80 × 100
+
+= 25%
+
+### If Loss Is Calculated on SP
+
+If loss is p% of SP:
+
+Actual loss % = [p / (100 + p)] × 100
+
+Example: Loss is 20% of SP.
+
+Actual loss % = 20/120 × 100
+
+= 16⅔%
+
+### Remember
+
+Check the wording carefully:
+
+- Profit on CP → Standard profit percentage.
+- Profit on SP → Use SP as the base.
+- Loss on CP → Standard loss percentage.
+- Loss on SP → Use the special formula.
+
+---
+
+# 11. Equal Profit and Loss
+
+A common question says:
+
+The profit from selling an article at one price equals the loss from selling the same article at another price.
+
+## Example
+
+An article gives:
+- Profit when sold for ₹134.
+- An equal amount of loss when sold for ₹116.
+
+Find the CP.
+
+Let CP = C and equal profit/loss = x.
+
+When sold at ₹134:
+
+C + x = 134
+
+When sold at ₹116:
+
+C - x = 116
+
+Add both equations:
+
+2C = 134 + 116
+
+2C = 250
+
+C = ₹125
+
+**Answer: ₹125**
+
+### Shortcut Formula
+
+When profit and loss amounts are equal:
+
+CP = (Higher SP + Lower SP) / 2
+
+CP = (134 + 116)/2 = ₹125
+
+### Find the Equal Profit or Loss
+
+x = (Higher SP - Lower SP)/2
+
+x = (134 - 116)/2
+
+x = ₹9
+
+Therefore:
+- CP = ₹125
+- Profit at ₹134 = ₹9
+- Loss at ₹116 = ₹9
+
+---
+
+# 12. Overall Profit and Loss
+
+When several articles or transactions are involved, calculate the total cost and total selling price.
+
+**Formula:**
+
+Overall Profit = Total SP - Total CP
+
+Overall Loss = Total CP - Total SP
+
+## Example
+
+A shopkeeper buys two articles for ₹500 each.
+
+He sells:
+- First article for ₹600
+- Second article for ₹400
+
+Total CP = 500 + 500 = ₹1,000
+
+Total SP = 600 + 400 = ₹1,000
+
+Overall result = No profit, no loss.
+
+### Important Lesson
+
+Do not decide the overall result from only one transaction. Consider all articles and their values.
+
+If some articles remain unsold or are wasted, account for their cost when calculating the overall result.
+
+---
+
+# 13. Marked Price (MP) and Discount
+
+## 13.1 Discount Formula
+
+Discount = MP - SP
+
+Discount % = (Discount / MP) × 100
+
+**Example:**
+
+MP = ₹1,000  
+SP = ₹800
+
+Discount = 1,000 - 800 = ₹200
+
+Discount % = (200/1,000) × 100
+
+Discount = 20%
+
+## 13.2 Find SP After Discount
+
+SP = MP × (100 - Discount %)/100
+
+**Example:**
+
+MP = ₹2,000  
+Discount = 15%
+
+SP = 2,000 × 85/100
+
+SP = ₹1,700
+
+## 13.3 Find MP When SP and Discount Are Given
+
+MP = SP × 100/(100 - Discount %)
+
+**Example:**
+
+SP = ₹800  
+Discount = 20%
+
+MP = 800 × 100/80
+
+MP = ₹1,000
+
+### Quick Ratio Approach
+
+For a 20% discount:
+
+MP : SP = 100 : 80 = 5 : 4
+
+For a 25% discount:
+
+MP : SP = 100 : 75 = 4 : 3
+
+For a 40% discount:
+
+MP : SP = 100 : 60 = 5 : 3
+
+For a 10% discount:
+
+MP : SP = 100 : 90 = 10 : 9
+
+---
+
+# 14. Successive Discounts
+
+Successive discounts mean that two or more discounts are applied one after another.
+
+The second discount is calculated on the price remaining after the first discount, not on the original marked price.
+
+## Example 1: Discounts of 20%, 40%, and 25%
+
+Assume MP = ₹1,000.
+
+First discount = 20%
+
+Price after first discount:
+
+1,000 × 80/100 = ₹800
+
+Second discount = 40%
+
+Price after second discount:
+
+800 × 60/100 = ₹480
+
+Third discount = 25%
+
+Final selling price:
+
+480 × 75/100 = ₹360
+
+Total discount = 1,000 - 360 = ₹640
+
+Equivalent discount percentage:
+
+(640/1,000) × 100 = 64%
+
+**Answer: 64% equivalent discount**
+
+### Important
+
+20% + 40% + 25% = 85% is incorrect.
+
+The discounts are applied successively, so the correct equivalent discount is 64%.
+
+## Example 2: Two Successive Discounts
+
+For discounts of a% and b%:
+
+Equivalent discount % = a + b - (ab/100)
+
+**Example:**
+
+20% and 10% discounts.
+
+Equivalent discount = 20 + 10 - (20 × 10)/100
+
+= 30 - 2
+
+= 28%
+
+## Example 3: Find the Second Discount
+
+Two successive discounts give an overall discount of 25%. The first discount is 10%. Find the second discount.
+
+Assume MP = ₹100.
+
+After the first discount of 10%:
+
+Price = ₹90
+
+Overall discount is 25%, so the final selling price is:
+
+SP = ₹75
+
+The second discount reduces ₹90 to ₹75.
+
+Second discount = 90 - 75 = ₹15
+
+Second discount % = (15/90) × 100
+
+= 16⅔%
+
+**Answer: 16⅔%**
+
+### Successive Discount Multiplier Method
+
+For a discount of d%:
+
+Remaining price multiplier = (100 - d)/100
+
+For two discounts:
+
+Final SP = MP × (100 - a)/100 × (100 - b)/100
+
+This method works for any number of successive discounts.
+
+---
+
+# 15. Dishonest Shopkeeper and False Weight
+
+A dishonest shopkeeper may cheat by:
+- Using less weight than stated.
+- Charging a customer for 1 kg but giving less than 1 kg.
+- Buying goods using an incorrect weight.
+- Increasing the marked price and then offering a discount.
+
+Always separate these situations and calculate the actual amount of goods and money.
+
+## 15.1 Selling Less Than 1 kg as 1 kg
+
+Suppose a shopkeeper charges the price of 1 kg but gives only 800 g.
+
+Assume the cost price of 1 kg is ₹100.
+
+The shopkeeper charges ₹100 but gives goods that cost:
+
+₹100 × 800/1,000 = ₹80
+
+Profit = 100 - 80 = ₹20
+
+Profit % = (20/80) × 100
+
+= 25%
+
+**Answer: 25% profit**
+
+### General Formula
+
+If the shopkeeper gives x grams instead of 1,000 grams and charges the price of 1 kg:
+
+Profit % = [(1,000 - x)/x] × 100
+
+This assumes the shopkeeper's cost per gram is the same and the customer pays the full 1 kg price.
+
+## 15.2 Giving 900 g Instead of 1 kg
+
+Suppose a shopkeeper charges the price of 1 kg but gives 900 g.
+
+Profit % = [(1,000 - 900)/900] × 100
+
+= (100/900) × 100
+
+= 11⅑%
+
+**Answer: 11⅑% profit**
+
+### Remember
+
+The denominator is the actual quantity given, because that quantity determines the shopkeeper's cost.
+
+## 15.3 When the Shopkeeper Also Gets Less While Buying
+
+If a shopkeeper receives less than the stated weight while purchasing and also gives less while selling, calculate the actual quantity received and the actual quantity sold separately.
+
+Do not automatically add the two percentages. First determine:
+1. How much money was paid.
+2. How much quantity was actually received.
+3. How much quantity was actually given to customers.
+4. How much money was collected.
+
+Then calculate profit or loss using actual cost and actual revenue.
+
+## 15.4 Marked Price, Discount, and False Weight Together
+
+These questions may combine:
+- An increase in marked price.
+- A discount on the marked price.
+- A false weight while purchasing.
+- A false weight while selling.
+
+### Method
+
+1. Assume a convenient original price, such as ₹100.
+2. Apply any increase in price.
+3. Apply the discount to the new marked price.
+4. Calculate the actual quantity purchased or received.
+5. Calculate the actual quantity given to customers.
+6. Compare actual revenue with actual cost.
+
+**Important:** The exact sequence matters. Apply each percentage to the correct base.
+
+---
+
+# 16. Common Mistakes
+
+## Mistake 1: Using SP as the denominator
+
+Incorrect for standard profit percentage:
+
+Profit / SP × 100
+
+Correct:
+
+Profit / CP × 100
+
+## Mistake 2: Adding Successive Percentages Directly
+
+Two successive profits of 10% and 20% do not give 30% overall profit.
+
+Correct overall profit = 32%.
+
+## Mistake 3: Adding Successive Discounts Directly
+
+Discounts of 20% and 10% do not give 30% overall discount.
+
+Correct equivalent discount = 28%.
+
+## Mistake 4: Confusing MP and CP
+
+- CP = purchase price.
+- MP = displayed or marked price.
+- SP = actual selling price.
+
+Discount is calculated on MP, while standard profit or loss percentage is calculated on CP.
+
+## Mistake 5: Ignoring the Number of Articles
+
+If a question involves 10 articles, do not automatically use the price of one article without adjusting the quantity.
+
+## Mistake 6: Reversing a Ratio
+
+If CP of 15 articles equals SP of 10 articles:
+
+15C = 10S
+
+Write the equation first, then simplify.
+
+## Mistake 7: Forgetting the Correct Base
+
+Always identify what the percentage applies to:
+- CP?
+- SP?
+- MP?
+- Actual quantity or weight?
+
+The wording of the question determines the base.
+
+---
+
+# 17. Practice Questions
+
+Try these questions without checking the answers first.
+
+## Basic Questions
+
+1. An article is bought for ₹500 and sold for ₹650. Find the profit and profit percentage.
+
+2. An article is bought for ₹1,200 and sold for ₹900. Find the loss and loss percentage.
+
+3. An article costs ₹2,000. Find its selling price at a profit of 15%.
+
+4. An article costs ₹1,500. Find its selling price at a loss of 12%.
+
+5. An article is sold for ₹1,440 at a profit of 20%. Find its CP.
+
+6. An article is sold for ₹680 at a loss of 15%. Find its CP.
+
+## Ratio and Successive Transaction Questions
+
+7. An article costing ₹2,000 is sold at a profit of 10%, and the buyer resells it at a profit of 20%. Find the final selling price.
+
+8. An article suffers successive losses of 10% and 20%. Find the equivalent loss percentage.
+
+9. An article is sold for ₹284 at a loss of 29%. At what price should it be sold to gain 35%?
+
+10. An article is sold at a 15% profit in one case and a 17% loss in another. The difference between the selling prices is ₹64. Find the CP.
+
+11. The CP of 10 articles equals the SP of 15 articles. Find the loss percentage.
+
+12. The CP of 15 articles equals the SP of 10 articles. Find the profit percentage.
+
+## Special Profit Questions
+
+13. The profit on selling an article is 20% of its SP. Find the actual profit percentage on CP.
+
+14. The selling price of an article is ₹134 when there is a profit and ₹116 when there is an equal amount of loss. Find the CP.
+
+15. By selling 2 articles, a person earns a profit equal to the CP of 5 articles. Find the profit percentage.
+
+## Discount Questions
+
+16. The MP of an article is ₹2,500. A discount of 20% is given. Find the SP.
+
+17. An article is sold for ₹720 after a discount of 10%. Find the MP.
+
+18. Two successive discounts of 20% and 10% are given. Find the equivalent discount percentage.
+
+19. Three successive discounts of 20%, 40%, and 25% are given. Find the equivalent discount percentage.
+
+20. An article has an overall discount of 25%. The first discount is 10%. Find the second discount.
+
+## False Weight Questions
+
+21. A shopkeeper charges the price of 1 kg but gives only 800 g. Find the profit percentage, assuming the same cost per gram.
+
+22. A shopkeeper charges the price of 1 kg but gives only 900 g. Find the profit percentage, assuming the same cost per gram.
+
+---
+
+# 18. Answer Key
+
+1. Profit = ₹150; Profit % = 30%
+
+2. Loss = ₹300; Loss % = 25%
+
+3. SP = ₹2,300
+
+4. SP = ₹1,320
+
+5. CP = ₹1,200
+
+6. CP = ₹800
+
+7. Final SP = ₹2,640
+
+8. Equivalent loss = 28%
+
+9. Required SP = ₹540
+
+10. CP = ₹200
+
+11. Loss = 33⅓%
+
+12. Profit = 50%
+
+13. Actual profit = 25%
+
+14. CP = ₹125
+
+15. Profit = 250%
+
+16. SP = ₹2,000
+
+17. MP = ₹800
+
+18. Equivalent discount = 28%
+
+19. Equivalent discount = 64%
+
+20. Second discount = 16⅔%
+
+21. Profit = 25%
+
+22. Profit = 11⅑%
+
+---
+
+# 19. Quick Revision Sheet
+
+## Basic Formulas
+
+Profit = SP - CP
+
+Loss = CP - SP
+
+Profit % = (Profit / CP) × 100
+
+Loss % = (Loss / CP) × 100
+
+Discount = MP - SP
+
+Discount % = (Discount / MP) × 100
+
+## Selling Price
+
+SP at profit p% = CP × (100 + p)/100
+
+SP at loss l% = CP × (100 - l)/100
+
+## Cost Price
+
+CP at profit p% = SP × 100/(100 + p)
+
+CP at loss l% = SP × 100/(100 - l)
+
+## Successive Changes
+
+Two successive profits:
+
+Equivalent profit % = p + q + pq/100
+
+Two successive losses:
+
+Equivalent loss % = p + q - pq/100
+
+For mixed profit and loss, multiply the individual change factors.
+
+## Successive Discounts
+
+Equivalent discount for two discounts:
+
+d = a + b - ab/100
+
+For multiple discounts:
+
+Final SP = MP × (100 - d₁)/100 × (100 - d₂)/100 × ...
+
+## Equal Profit and Loss
+
+CP = (Higher SP + Lower SP)/2
+
+Equal profit or loss amount = (Higher SP - Lower SP)/2
+
+## False Weight
+
+If a shopkeeper charges for 1,000 g but gives x grams:
+
+Profit % = [(1,000 - x)/x] × 100
+
+This assumes the shopkeeper pays the same cost per gram and charges the full 1 kg price.
+
+---
+
+# Final Exam Strategy
+
+1. Read the question carefully and identify CP, SP, MP, and the percentage.
+2. Determine which value is the base for the percentage.
+3. Use the direct formula for simple questions.
+4. Use the ratio approach when multiple articles or multiple selling prices are involved.
+5. Use multipliers for successive profit, loss, and discount questions.
+6. For dishonest-shopkeeper questions, calculate actual quantity and actual money first.
+7. Check whether the question asks for profit/loss amount or percentage.
+8. Practice different approaches, but use the method that is fastest and clearest for you.
+
+**Golden Rule:** Profit and loss percentages are normally calculated on CP; discount percentage is calculated on MP. Always check the wording before applying a formula.
+
 # Profit, Loss & Discount – Complete Notes (Hinglish)
 
 > Source: Rambaan Series – Lecture 2 (Profit, Loss & Discount, high-frequency types).
