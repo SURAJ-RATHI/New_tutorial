@@ -1,3 +1,754 @@
+# Simple Interest and Compound Interest (SI & CI) — Complete Notes
+
+## 1. Basic Terminology
+
+### Principal (P)
+The money originally borrowed, lent, or invested is called the **Principal**.
+
+Hindi: मूलधन
+
+Example: If you borrow ₹1,000, then Principal = ₹1,000.
+
+### Interest (I)
+The extra money paid or earned on the principal is called **Interest**.
+
+Hindi: ब्याज
+
+Example: You borrow ₹1,000 and return ₹1,100.
+
+Interest = ₹1,100 − ₹1,000 = ₹100
+
+### Amount (A)
+The total money returned after adding interest to the principal is called the **Amount**.
+
+Hindi: मिश्रधन
+
+**Formula:**
+
+Amount = Principal + Interest
+
+A = P + I
+
+Therefore:
+
+- P = A − I
+- I = A − P
+
+### Rate of Interest (R)
+The percentage of interest charged per year is called the Rate of Interest.
+
+Example: A rate of 10% per annum means interest is calculated at 10% per year.
+
+### Time (T)
+The period for which the money is borrowed or invested.
+
+Examples: 2 years, 5 years, 10 years.
+
+---
+
+## 2. Types of Interest
+
+There are two main types of interest:
+
+1. Simple Interest (SI) — साधारण ब्याज
+2. Compound Interest (CI) — चक्रवृद्धि ब्याज
+
+### Simple Interest (SI)
+
+Simple Interest is calculated only on the original principal every year.
+
+The principal remains unchanged for the calculation of interest.
+
+Example:
+
+Principal = ₹1,000  
+Rate = 10% per year
+
+| Year | Principal | Interest for that year |
+|---|---:|---:|
+| 1 | ₹1,000 | ₹100 |
+| 2 | ₹1,000 | ₹100 |
+| 3 | ₹1,000 | ₹100 |
+
+Total SI = ₹100 + ₹100 + ₹100 = ₹300
+
+### Compound Interest (CI)
+
+Compound Interest is calculated on the principal **and the interest already added** to it.
+
+This means interest can earn further interest.
+
+Example:
+
+Principal = ₹1,000  
+Rate = 10% per year
+
+| Year | Starting Amount | Interest | Ending Amount |
+|---|---:|---:|---:|
+| 1 | ₹1,000 | ₹100 | ₹1,100 |
+| 2 | ₹1,100 | ₹110 | ₹1,210 |
+| 3 | ₹1,210 | ₹121 | ₹1,331 |
+
+After 3 years:
+
+- SI = ₹300
+- CI = ₹331
+
+The difference occurs because, under CI, interest is added to the amount and earns interest in later years.
+
+---
+
+## 3. Simple Interest Formula
+
+The most important formula is:
+
+**SI = (P × R × T) / 100**
+
+Where:
+
+- P = Principal
+- R = Annual rate of interest
+- T = Time in years
+
+Other useful formulas:
+
+**Principal:**
+
+P = (SI × 100) / (R × T)
+
+**Rate:**
+
+R = (SI × 100) / (P × T)
+
+**Time:**
+
+T = (SI × 100) / (P × R)
+
+**Amount:**
+
+A = P + SI
+
+### Example 1: Find Simple Interest
+
+Principal = ₹1,000  
+Rate = 10% per annum  
+Time = 3 years
+
+SI = (1,000 × 10 × 3) / 100
+
+SI = ₹300
+
+Amount = ₹1,000 + ₹300 = **₹1,300**
+
+### Example 2: A Larger Calculation
+
+Principal = ₹5,000  
+Rate = 20% per annum  
+Time = 4 years
+
+SI = (5,000 × 20 × 4) / 100
+
+SI = **₹4,000**
+
+Amount = ₹5,000 + ₹4,000 = ₹9,000
+
+### Example 3: Fractional Rate
+
+Principal = ₹1,200  
+Rate = 16⅔% per annum  
+Time = 10 years
+
+Convert the rate into a fraction:
+
+16⅔% = 50/3% = 1/6
+
+Therefore, the annual interest is 1/6 of the principal.
+
+Annual interest = ₹1,200 ÷ 6 = ₹200
+
+SI for 10 years = ₹200 × 10
+
+**SI = ₹2,000**
+
+---
+
+## 4. Shortcut: Calculate SI Mentally
+
+Under SI, the interest earned each year remains the same if the principal and rate remain unchanged.
+
+### Example
+
+Principal = ₹5,000  
+Rate = 20%  
+Time = 4 years
+
+20% of ₹5,000 = ₹1,000 per year.
+
+Total SI = ₹1,000 × 4 = ₹4,000.
+
+You can also combine the yearly percentages:
+
+20% × 4 years = 80%
+
+SI = 80% of ₹5,000 = ₹4,000.
+
+### General shortcut
+
+For simple interest:
+
+**Total interest percentage = R × T**
+
+Here, R is the annual rate expressed as a percentage.
+
+Example: 12% per year for 5 years gives total SI equal to 60% of the principal.
+
+---
+
+## 5. How SI Changes When P or R Changes
+
+### Rule 1: Principal changes
+
+If the rate and time remain constant:
+
+- Principal doubles → SI doubles.
+- Principal becomes 3 times → SI becomes 3 times.
+- Principal becomes half → SI becomes half.
+
+### Rule 2: Rate changes
+
+If the principal and time remain constant:
+
+- Rate doubles → SI doubles.
+- Rate becomes 3 times → SI becomes 3 times.
+
+### Important condition
+
+These shortcuts work when the other relevant values remain unchanged.
+
+---
+
+## 6. Questions Where Principal Changes After Some Years
+
+### Example
+
+The SI for 10 years on a principal is ₹1,500.
+
+After 5 years, the principal becomes 3 times its original value. Find the total SI for 10 years, assuming the rate stays the same.
+
+**Step 1: Find the interest for one year on the original principal.**
+
+₹1,500 ÷ 10 = ₹150
+
+**Step 2: Find SI for the first 5 years.**
+
+₹150 × 5 = ₹750
+
+**Step 3: Find SI for the next 5 years.**
+
+The principal is now 3 times the original principal.
+
+Annual interest = ₹150 × 3 = ₹450
+
+Interest for the next 5 years = ₹450 × 5 = ₹2,250
+
+**Step 4: Add both parts.**
+
+Total SI = ₹750 + ₹2,250
+
+**Answer = ₹3,000**
+
+---
+
+## 7. Amount and Principal in Percentage Form
+
+For percentage-based questions, consider the principal as **100%**.
+
+Therefore:
+
+- Principal = 100%
+- SI = the interest percentage accumulated over the given time
+- Amount = 100% + SI percentage
+
+### Example
+
+Rate = 10% per year  
+Time = 10 years
+
+Under SI:
+
+Total interest percentage = 10 × 10 = 100%
+
+So:
+
+- Principal = 100%
+- SI = 100%
+- Amount = 200%
+
+Therefore:
+
+**Amount : Principal = 200 : 100 = 2 : 1**
+
+This shortcut is useful when the question asks for a ratio rather than the actual rupee amount.
+
+---
+
+## 8. When an Amount Becomes 2 Times, 3 Times, or 5 Times
+
+Words such as **becomes**, **doubles**, and **triples** generally refer to the final amount in these questions.
+
+For example:
+
+If the principal is ₹100 and the amount becomes ₹300:
+
+SI = ₹300 − ₹100 = ₹200
+
+Do not mistake the final amount for the interest.
+
+### Example: An amount triples in 4 years
+
+Suppose the principal is ₹1.
+
+After 4 years, the amount becomes ₹3.
+
+Interest = ₹3 − ₹1 = ₹2
+
+SI for 4 years = ₹2
+
+Annual interest = ₹2 ÷ 4 = ₹0.50
+
+Rate = (0.50 ÷ 1) × 100
+
+**Rate = 50% per annum**
+
+### Example: An amount doubles in 6 years
+
+Principal = ₹1  
+Amount after 6 years = ₹2
+
+Interest = ₹2 − ₹1 = ₹1
+
+The principal earns ₹1 as interest in 6 years.
+
+To earn ₹4 as interest under SI, the time required is:
+
+6 × 4 = **24 years**
+
+Therefore, the amount becomes 5 times the principal in 24 years.
+
+---
+
+## 9. Finding Principal When Amounts Are Given for Different Times
+
+**Important rule:** The amount and interest used in subtraction must refer to the same time period.
+
+### Example
+
+An amount is ₹600 after 1 year and ₹900 after 4 years. Find the principal and annual rate.
+
+**Step 1: Find the increase in amount.**
+
+₹900 − ₹600 = ₹300
+
+This is the SI earned over the extra 3 years.
+
+**Step 2: Find annual SI.**
+
+₹300 ÷ 3 = ₹100 per year
+
+**Step 3: Find principal.**
+
+The amount after 1 year is ₹600.
+
+Principal = Amount − SI for 1 year
+
+P = ₹600 − ₹100 = ₹500
+
+**Step 4: Find rate.**
+
+R = (100 × 100) ÷ 500
+
+**Rate = 20% per annum**
+
+### Common mistake
+
+Do not subtract one year's interest from an amount that represents four years. First convert the interest to the matching time period.
+
+---
+
+## 10. Compound Interest Formula
+
+When interest is compounded annually:
+
+**Amount:**
+
+A = P × (1 + R/100)^T
+
+**Compound Interest:**
+
+CI = A − P
+
+Therefore:
+
+CI = P × (1 + R/100)^T − P
+
+Where:
+
+- P = Principal
+- R = Annual rate
+- T = Number of years
+- A = Final amount
+
+### Example: CI for 2 years
+
+Principal = ₹1,000  
+Rate = 10% per year
+
+**Year 1**
+
+Interest = 10% of ₹1,000 = ₹100
+
+Amount = ₹1,100
+
+**Year 2**
+
+Interest = 10% of ₹1,100 = ₹110
+
+Amount = ₹1,210
+
+CI = ₹1,210 − ₹1,000
+
+**CI = ₹210**
+
+---
+
+## 11. Calculating CI Year by Year
+
+When the annual rate is the same, the amount at the end of each year becomes the starting amount for the next year.
+
+### Example
+
+Principal = ₹6,000  
+Rate = 20% per year  
+Time = 2 years
+
+**Year 1**
+
+Interest = 20% of ₹6,000 = ₹1,200
+
+Amount = ₹7,200
+
+**Year 2**
+
+Interest = 20% of ₹7,200 = ₹1,440
+
+Amount = ₹8,640
+
+CI = ₹8,640 − ₹6,000
+
+**CI = ₹2,640**
+
+---
+
+## 12. The Effective Interest Percentage
+
+Under SI, the total interest percentage is simply:
+
+R × T
+
+Under CI, the interest percentage is calculated on a growing amount.
+
+### CI for 2 years
+
+If the annual rate is R%, the effective interest percentage for 2 years is:
+
+**Effective rate = R + R + (R × R)/100**
+
+Or:
+
+**Effective rate = 2R + R²/100**
+
+### Example: 10% for 2 years
+
+Effective rate = 10 + 10 + (10 × 10)/100
+
+= 20 + 1
+
+= **21%**
+
+For a principal of ₹6,000:
+
+CI = 21% of ₹6,000
+
+CI = ₹1,260
+
+### Example: 20% for 2 years
+
+Effective rate = 20 + 20 + (20 × 20)/100
+
+= 40 + 4
+
+= **44%**
+
+For a principal of ₹6,000:
+
+CI = 44% of ₹6,000
+
+CI = **₹2,640**
+
+This method is useful when you need only the interest percentage and want to avoid calculating the amount year by year.
+
+---
+
+## 13. Effective Interest for 3 Years
+
+For three years, you can calculate the amount year by year or combine the effective percentages.
+
+If the annual rate is R%, the effective percentage for three years is:
+
+**R + R²/100 + (R + R²/100) × R/100 + R**
+
+A simpler method is to calculate the amount multiplier:
+
+**Amount = P × (1 + R/100)³**
+
+Then:
+
+CI = Amount − P
+
+### Example: 10% for 3 years
+
+Principal = ₹1,000
+
+Year 1 amount = ₹1,100
+
+Year 2 amount = ₹1,210
+
+Year 3 amount = ₹1,331
+
+CI = ₹1,331 − ₹1,000
+
+**CI = ₹331**
+
+Effective interest percentage = **33.1%**
+
+---
+
+## 14. Difference Between CI and SI
+
+For the same principal, annual rate, and time, CI is generally greater than SI when the rate is positive and the period exceeds one year.
+
+### Difference for 2 years
+
+**CI − SI = P × R² / 10,000**
+
+This shortcut applies when the rate is annual and compounding is yearly.
+
+### Example
+
+Principal = ₹10,000  
+Rate = 10%  
+Time = 2 years
+
+Difference = 10,000 × 10² / 10,000
+
+Difference = **₹100**
+
+Check:
+
+- SI = ₹2,000
+- CI = ₹2,100
+- Difference = ₹100
+
+### Difference for 3 years
+
+For annual compounding, the difference is:
+
+**CI − SI = P × [3(R/100)² + (R/100)³]**
+
+Equivalent form:
+
+**CI − SI = P × (3R²/10,000 + R³/1,000,000)**
+
+Use the formula carefully and keep the rate and time units consistent.
+
+---
+
+## 15. Finding the Interest for a Particular Year Under CI
+
+Under CI, the interest for each year increases when the rate is positive because the starting amount increases.
+
+### Example
+
+Principal = ₹1,000  
+Rate = 20% per year
+
+- First-year interest = ₹200
+- Second-year interest = ₹240
+- Third-year interest = ₹288
+
+Notice the pattern:
+
+Second-year interest = First-year interest × 1.2
+
+Third-year interest = Second-year interest × 1.2
+
+For a 20% annual rate, multiply by 120/100 = 6/5 to move from one year's interest to the next.
+
+For a general rate R%, multiply by:
+
+**(100 + R)/100**
+
+This shortcut assumes the rate and annual compounding frequency remain unchanged.
+
+---
+
+## 16. Growth Multipliers
+
+Under CI, the amount grows by a fixed multiplier each year.
+
+| Annual rate | Yearly multiplier |
+|---|---:|
+| 5% | 1.05 |
+| 10% | 1.10 |
+| 20% | 1.20 |
+| 25% | 1.25 |
+| 50% | 1.50 |
+| 100% | 2.00 |
+
+### Example
+
+At 20% annual CI:
+
+- After 1 year: P × 1.2
+- After 2 years: P × 1.2²
+- After 3 years: P × 1.2³
+
+This is useful when the question asks how many years are required for an amount to become a particular multiple.
+
+---
+
+## 17. When an Amount Becomes a Multiple Under CI
+
+Suppose an amount becomes 3 times the principal in 10 years.
+
+Using annual compounding:
+
+A = P × (1 + R/100)^T
+
+If A = 3P:
+
+3P = P × (1 + R/100)^10
+
+Cancel P:
+
+3 = (1 + R/100)^10
+
+For questions that give a growth multiple and ask for time, compare the powers of the same multiplier when possible.
+
+### Important distinction
+
+Do not use the SI assumption that equal amounts of interest are added every year. Under CI, the amount grows by multiplication, so the interest amount changes each year.
+
+---
+
+## 18. Quick Formula Sheet
+
+### Simple Interest
+
+- SI = PRT/100
+- A = P + SI
+- P = A − SI
+- R = SI × 100/(P × T)
+- T = SI × 100/(P × R)
+
+### Compound Interest
+
+- A = P(1 + R/100)^T
+- CI = A − P
+- Two-year effective rate = 2R + R²/100
+- Two-year difference: CI − SI = PR²/10,000
+
+### Percentage shortcuts
+
+- Principal = 100%
+- Amount = Principal + Interest
+- Under SI, total interest percentage = R × T
+- Under CI, the amount is multiplied by (1 + R/100) each year
+
+---
+
+## 19. Common Mistakes to Avoid
+
+1. **Confusing Amount with Interest:** Amount includes both principal and interest.
+2. **Using the wrong time period:** Amount and interest must refer to the same time period when subtracting.
+3. **Treating SI and CI as the same:** SI is calculated on the original principal; CI includes previously added interest.
+4. **Forgetting the annual rate:** A rate of 10% per annum is a yearly rate.
+5. **Adding yearly CI percentages directly:** For CI, the base changes each year.
+6. **Using the two-year CI shortcut for another duration:** The formula PR²/10,000 is for the two-year difference under annual compounding.
+7. **Mixing percentage and decimal forms:** If using R/100, do not divide by 100 again unnecessarily.
+
+---
+
+## 20. Practice Questions
+
+Try these questions before checking the answers.
+
+1. Find SI on ₹2,000 at 5% per annum for 3 years.
+2. Find the amount on ₹5,000 at 10% SI for 2 years.
+3. Find the rate if the SI is ₹600 on ₹3,000 for 4 years.
+4. Find the principal if SI is ₹500 at 10% for 2 years.
+5. At 10% SI, how much interest is earned on ₹4,000 in 5 years?
+6. The amount becomes ₹1,500 after 1 year and ₹1,800 after 4 years. Find the annual SI.
+7. An amount triples in 5 years under SI. If the principal is ₹100, find the SI.
+8. Find CI on ₹1,000 at 10% per annum for 2 years.
+9. Find CI on ₹2,000 at 5% per annum for 2 years.
+10. Find the amount on ₹5,000 at 20% CI for 2 years.
+11. Find the difference between SI and CI on ₹10,000 at 10% for 2 years.
+12. At 20% annual CI, find the interest earned in the second year on ₹1,000.
+13. At 10% annual CI, find the amount on ₹1,000 after 3 years.
+14. Under SI, if the rate doubles while principal and time stay the same, what happens to SI?
+15. Under CI, why does the interest generally increase from year to year?
+
+### Answer Key
+
+1. ₹300
+2. ₹6,000
+3. 5%
+4. ₹2,500
+5. ₹2,000
+6. ₹100 per year
+7. ₹200
+8. ₹210
+9. ₹205
+10. ₹7,200
+11. ₹100
+12. ₹240
+13. ₹1,331
+14. SI doubles
+15. Because interest is calculated on the increased amount, including previously added interest.
+
+---
+
+## 21. Final Revision Strategy
+
+When solving an interest question:
+
+1. Identify the principal, rate, and time.
+2. Determine whether the question uses SI or CI.
+3. Check whether the question asks for interest, amount, principal, rate, time, a ratio, or a difference.
+4. For SI, use PRT/100 or calculate the yearly interest.
+5. For CI, calculate the amount year by year or use the compound amount formula.
+6. Match the time period before subtracting interest from an amount.
+7. Check whether the question asks for a final amount or only the interest.
+
+**Remember:**
+
+- SI: Interest is calculated on the original principal.
+- CI: Interest is calculated on the principal plus previously accumulated interest.
+- Amount = Principal + Interest.
+
+
+
 # Simple Interest (SI) & Compound Interest (CI) – Complete Notes (Hinglish)
 
 > Source: Viral Maths – SI & CI one-video complete package.
