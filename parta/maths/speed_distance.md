@@ -966,6 +966,973 @@ Before solving any question, ask yourself:
 
 If you identify the correct case first, most Speed, Time and Distance questions become much easier.
 
+# Speed, Time and Distance — Complete Notes
+
+## 1. Basic Concepts
+
+### Speed
+Speed tells us how much distance a person or object covers in a unit of time.
+
+For example:
+- 20 km/hour means 20 kilometres are covered in 1 hour.
+- 40 metres/second means 40 metres are covered in 1 second.
+
+Speed is similar to efficiency in Time and Work:
+- Time and Work: Work done per unit of time.
+- Speed, Time and Distance: Distance covered per unit of time.
+
+### Important Formulas
+
+Speed = Distance / Time
+
+Distance = Speed × Time
+
+Time = Distance / Speed
+
+Remember:
+- To find speed, divide distance by time.
+- To find distance, multiply speed by time.
+- To find time, divide distance by speed.
+
+### Example 1
+A person travels 20 km in 1 hour. How far will the person travel in 10 hours at the same speed?
+
+Distance = Speed × Time
+
+Distance = 20 × 10 = 200 km
+
+**Answer: 200 km**
+
+### Example 2
+A person travels 500 metres at 36 km/hour. Find the time taken.
+
+First, convert 36 km/hour into metres/second:
+
+36 × 5/18 = 10 m/s
+
+Time = Distance / Speed
+
+Time = 500 / 10 = 50 seconds
+
+**Answer: 50 seconds**
+
+---
+
+## 2. Units of Speed, Distance and Time
+
+Always check the units before applying a formula.
+
+| Quantity | Common Units |
+|---|---|
+| Distance | km, m, cm |
+| Time | hours, minutes, seconds |
+| Speed | km/hour, m/second |
+
+### Golden Rule
+
+- If distance is in kilometres, use speed in km/hour and time in hours.
+- If distance is in metres, use speed in m/second and time in seconds.
+
+For example, do not directly multiply 40 m/second by 10 hours without converting the time into seconds.
+
+### Why Does Speed × Time Give Distance?
+
+Suppose speed = 20 km/hour and time = 10 hours.
+
+Distance = (20 km / 1 hour) × 10 hours
+
+Hours cancel out, leaving kilometres.
+
+Distance = 200 km
+
+The units must cancel correctly.
+
+---
+
+## 3. Conversion of Speed
+
+### Most Important Conversion Formulas
+
+**Kilometres/hour to metres/second:**
+
+Multiply by 5/18.
+
+km/hour × 5/18 = m/second
+
+**Metres/second to kilometres/hour:**
+
+Multiply by 18/5.
+
+m/second × 18/5 = km/hour
+
+### Examples
+
+1. Convert 72 km/hour into m/second.
+
+   72 × 5/18 = 20 m/second
+
+2. Convert 15 m/second into km/hour.
+
+   15 × 18/5 = 54 km/hour
+
+3. Convert 126 km/hour into m/second.
+
+   126 × 5/18 = 35 m/second
+
+### Why Do We Use 5/18?
+
+To convert km/hour into m/second:
+
+- 1 kilometre = 1,000 metres
+- 1 hour = 3,600 seconds
+
+Therefore:
+
+1 km/hour = 1,000/3,600 m/second
+
+= 10/36 = 5/18 m/second
+
+The reverse conversion uses 18/5.
+
+### Quick Memory Trick
+
+- km/hour → m/second: multiply by 5/18.
+- m/second → km/hour: multiply by 18/5.
+
+---
+
+## 4. Metric Unit Conversion
+
+Remember this unit sequence:
+
+**Kilo → Hecto → Deca → Metre → Deci → Centi → Milli**
+
+Examples of distance units:
+- Kilometre
+- Hectometre
+- Decametre
+- Metre
+- Decimetre
+- Centimetre
+- Millimetre
+
+### Rule
+
+- Moving from a larger unit to a smaller unit: multiply.
+- Moving from a smaller unit to a larger unit: divide.
+
+Count the steps between the units.
+
+For each step, multiply or divide by 10.
+
+### Example 1: Convert 10 km into metres
+
+Kilometre → Hectometre → Decametre → Metre
+
+There are 3 steps towards a smaller unit.
+
+10 × 1,000 = 10,000 metres
+
+### Example 2: Convert 15 hectometres into decimetres
+
+Hectometre → Decametre → Metre → Decimetre
+
+There are 3 steps.
+
+15 × 1,000 = 15,000 decimetres
+
+### Example 3: Convert 1,000 cm into hectometres
+
+Centimetre to hectometre involves 4 steps towards a larger unit.
+
+1,000 / 10,000 = 0.1 hectometre
+
+### Time Unit Conversion
+
+1 hour = 60 minutes
+
+1 minute = 60 seconds
+
+1 hour = 3,600 seconds
+
+- Hours to minutes: multiply by 60.
+- Minutes to seconds: multiply by 60.
+- Seconds to minutes: divide by 60.
+- Minutes to hours: divide by 60.
+- Seconds to hours: divide by 3,600.
+
+### Examples
+
+2 hours = 2 × 60 = 120 minutes
+
+7,200 seconds = 7,200 / 3,600 = 2 hours
+
+### Converting Fractional Hours into Hours and Minutes
+
+First, separate the whole number and fractional part. Convert only the fractional part into minutes by multiplying it by 60.
+
+Example 1:
+
+15/2 hours = 7 1/2 hours
+
+1/2 × 60 = 30 minutes
+
+Answer = **7 hours 30 minutes**
+
+Example 2:
+
+85/4 hours = 21 1/4 hours
+
+1/4 × 60 = 15 minutes
+
+Answer = **21 hours 15 minutes**
+
+---
+
+## 5. Relationship Between Speed and Time
+
+When the distance remains fixed:
+
+**Speed and time are inversely proportional.**
+
+This means:
+- If speed increases, time decreases.
+- If speed decreases, time increases.
+
+For a fixed distance:
+
+Speed × Time = Constant
+
+If speed ratio is:
+
+S1 : S2 = a : b
+
+Then time ratio is:
+
+T1 : T2 = b : a
+
+The time ratio is the reverse of the speed ratio.
+
+### Example
+
+A person covers the same distance at speeds of 40 km/hour and 80 km/hour.
+
+Speed ratio = 40 : 80 = 1 : 2
+
+Time ratio = 2 : 1
+
+The person takes half as much time at 80 km/hour as at 40 km/hour.
+
+**Important:** This inverse relationship applies when the distance is the same.
+
+---
+
+## 6. Average Speed
+
+Average speed is not always the average of the given speeds.
+
+The main formula is:
+
+**Average Speed = Total Distance / Total Time**
+
+### Case 1: Different Distances and Different Times
+
+Add all distances and divide by the total time.
+
+Average speed = (d1 + d2 + d3 + ...) / (t1 + t2 + t3 + ...)
+
+### Example
+
+A person travels:
+- 20 km in 3 hours
+- 30 km in 5 hours
+- 40 km in 2 hours
+
+Total distance = 20 + 30 + 40 = 90 km
+
+Total time = 3 + 5 + 2 = 10 hours
+
+Average speed = 90 / 10
+
+**Answer: 9 km/hour**
+
+### Case 2: Distances Are Given, but Times Are Not Given
+
+Calculate each time separately:
+
+Time = Distance / Speed
+
+Then:
+
+Average speed = Total distance / Sum of individual times
+
+### Example
+
+A person travels:
+- 20 km at 5 km/hour
+- 40 km at 8 km/hour
+- 40 km at 20 km/hour
+
+Time taken:
+
+First journey = 20/5 = 4 hours
+
+Second journey = 40/8 = 5 hours
+
+Third journey = 40/20 = 2 hours
+
+Total distance = 20 + 40 + 40 = 100 km
+
+Total time = 4 + 5 + 2 = 11 hours
+
+Average speed = 100/11
+
+**Answer: 100/11 km/hour, approximately 9.09 km/hour**
+
+### Case 3: Equal Distances at Two Different Speeds
+
+If the distances travelled at speeds S1 and S2 are equal:
+
+Average speed = 2 × S1 × S2 / (S1 + S2)
+
+This is also called the harmonic mean of the two speeds.
+
+### Example
+
+A person covers equal distances at 20 km/hour and 25 km/hour.
+
+Average speed = (2 × 20 × 25) / (20 + 25)
+
+= 1,000/45
+
+= 200/9
+
+**Answer: 200/9 km/hour, approximately 22.22 km/hour**
+
+### Important Shortcut
+
+Use this formula only when the two distances are equal.
+
+Do not use it automatically just because two speeds are given.
+
+### Case 4: Equal Time at Two Different Speeds
+
+If a person travels for equal amounts of time at speeds S1 and S2:
+
+Average speed = (S1 + S2) / 2
+
+Example:
+
+A person travels for 2 hours at 30 km/hour and another 2 hours at 50 km/hour.
+
+Average speed = (30 + 50)/2 = 40 km/hour
+
+**Important:** Equal time and equal distance are different cases.
+
+---
+
+## 7. Travelling to a Destination and Returning
+
+Suppose a person travels from home to the office and then returns home.
+
+The outward and return distances are equal.
+
+If the outward speed is S1 and the return speed is S2:
+
+Average speed = 2 × S1 × S2 / (S1 + S2)
+
+### Example
+
+A person travels to school at 20 km/hour and returns over the same distance at 30 km/hour.
+
+Average speed = (2 × 20 × 30)/(20 + 30)
+
+= 1,200/50
+
+**Answer: 24 km/hour**
+
+### Remember
+
+Do not simply calculate (20 + 30)/2 when the distances are equal but the speeds differ.
+
+The correct average speed is 24 km/hour, not 25 km/hour.
+
+---
+
+## 8. Relative Speed
+
+Relative speed is used when two moving objects or people are involved.
+
+### Case 1: Same Direction
+
+If two people move in the same direction:
+
+Relative speed = Faster speed − Slower speed
+
+Time to catch up = Distance between them / Difference in speeds
+
+This is often called the catching-up or chase case.
+
+### Example: Police and Thief
+
+A thief is 300 metres ahead of a policeman.
+
+- Thief's speed = 5 m/second
+- Policeman's speed = 7 m/second
+
+Relative speed = 7 − 5 = 2 m/second
+
+Time to catch = 300/2
+
+**Answer: 150 seconds**
+
+Distance covered by the thief:
+
+5 × 150 = 750 metres
+
+Distance covered by the policeman:
+
+7 × 150 = 1,050 metres
+
+The policeman travels 300 metres more, closing the initial gap.
+
+### Case 2: Opposite Directions
+
+If two people move towards each other:
+
+Relative speed = S1 + S2
+
+Time to meet = Distance between them / (S1 + S2)
+
+### Example
+
+Two people are 440 km apart and travel towards each other at 55 km/hour and 45 km/hour.
+
+Relative speed = 55 + 45 = 100 km/hour
+
+Time to meet = 440/100 = 4.4 hours
+
+0.4 hour × 60 = 24 minutes
+
+**Answer: 4 hours 24 minutes**
+
+### Easy Memory Trick
+
+- Same direction: subtract speeds.
+- Opposite directions: add speeds.
+
+---
+
+## 9. Important Condition for Relative-Speed Questions
+
+The simple relative-speed formula assumes both people start moving at the same time, or that you have already adjusted the distance and time so both are moving from the same reference time.
+
+If they start at different times, first calculate the distance covered by the person who started earlier.
+
+Then update the remaining distance and use relative speed.
+
+### Example: Different Starting Times
+
+Two people are 680 km apart.
+
+- Person A starts at 8:00 AM at 60 km/hour.
+- Person B starts at 8:30 AM at 70 km/hour.
+- They travel towards each other.
+
+Step 1: Find the head start of Person A.
+
+From 8:00 AM to 8:30 AM = 0.5 hour
+
+Distance covered by A = 60 × 0.5 = 30 km
+
+Step 2: Find the remaining gap.
+
+680 − 30 = 650 km
+
+Step 3: Both are now moving.
+
+Relative speed = 60 + 70 = 130 km/hour
+
+Time after 8:30 AM = 650/130 = 5 hours
+
+They meet at **1:30 PM**.
+
+### Remember
+
+Do not directly use the original distance divided by the sum of speeds when the starting times are different.
+
+First adjust the distance.
+
+---
+
+## 10. Speed Changes and Time Differences
+
+For a fixed distance:
+
+Time = Distance / Speed
+
+This formula is useful when the question gives a difference between the times taken at two speeds.
+
+### General Method
+
+If the same distance D is travelled at speeds S1 and S2, and the difference in times is ΔT:
+
+D/S1 − D/S2 = ΔT
+
+Arrange the equation according to which speed takes more time.
+
+### Example: Same Distance, Two Speeds
+
+A person travels the same distance at 40 km/hour and 50 km/hour. The slower journey takes 10 minutes longer.
+
+Convert 10 minutes into hours:
+
+10/60 = 1/6 hour
+
+Let the distance be D.
+
+D/40 − D/50 = 1/6
+
+D(1/40 − 1/50) = 1/6
+
+D(10/2,000) = 1/6
+
+D/200 = 1/6
+
+D = 200/6
+
+**Answer: 100/3 km**
+
+### Example: Same Route on Different Days
+
+Rahul travels from home to college at 40 km/hour. The next day, he travels the same route at 50 km/hour and arrives 10 minutes earlier.
+
+Let the distance be D.
+
+D/40 − D/50 = 10/60
+
+D/200 = 1/6
+
+D = 100/3 km
+
+**Answer: 33 1/3 km**
+
+---
+
+## 11. When Distance Is Unknown but Speeds and Time Difference Are Given
+
+If two vehicles cover the same distance at different speeds, their distances are equal.
+
+For example, if Vehicle A travels at 40 km/hour for t + 2 hours and Vehicle B travels at 55 km/hour for t hours:
+
+Distance covered by A = 40(t + 2)
+
+Distance covered by B = 55t
+
+Since the destination is the same:
+
+40(t + 2) = 55t
+
+40t + 80 = 55t
+
+80 = 15t
+
+t = 16/3 hours
+
+Then substitute t into either distance expression to find the distance.
+
+### Key Idea
+
+If two vehicles reach the same destination, the distances travelled by them are equal, even if their travel times differ.
+
+---
+
+## 12. Increasing or Decreasing Speed
+
+Suppose the original speed is x km/hour.
+
+- Speed increased by 6 km/hour → New speed = x + 6
+- Speed decreased by 6 km/hour → New speed = x − 6
+
+If the person travels the same distance in both cases, use:
+
+Time = Distance / Speed
+
+### Example Structure
+
+A person travels a distance at speed x and then at speed x + 6.
+
+If the time difference is given, write:
+
+D/x − D/(x + 6) = Time difference
+
+If the second speed is x − 6:
+
+D/(x − 6) − D/x = Time difference
+
+Choose the subtraction order according to which journey takes longer.
+
+---
+
+## 13. Ratio of Speeds and Ratio of Times
+
+For the same distance:
+
+Speed ratio and time ratio are inversely related.
+
+If:
+
+S1 : S2 = a : b
+
+Then:
+
+T1 : T2 = b : a
+
+### Example
+
+The speed ratio of two people is 2 : 3.
+
+Their times for the same distance will be:
+
+3 : 2
+
+### When Total Time Is Given
+
+Suppose the time ratio is 3 : 2 and total time is 25 hours.
+
+Total ratio parts = 3 + 2 = 5
+
+One part = 25/5 = 5 hours
+
+Times are:
+- First = 3 × 5 = 15 hours
+- Second = 2 × 5 = 10 hours
+
+### Important
+
+If speed doubles for the same distance, time becomes half.
+
+If speed becomes three times, time becomes one-third.
+
+---
+
+## 14. Stoppage-Based Questions
+
+Sometimes a traveller stops during a journey.
+
+The average speed including stoppages is lower than the speed while moving.
+
+A useful formula is:
+
+**Stoppage time per hour = (Speed without stoppage − Average speed with stoppage) / Speed without stoppage × 60 minutes**
+
+### Example
+
+A vehicle travels at 54 km/hour when it does not stop. Including stoppages, its average speed is 45 km/hour.
+
+Stoppage time per hour:
+
+= (54 − 45)/54 × 60
+
+= 9/54 × 60
+
+= 10 minutes
+
+**Answer: 10 minutes per hour**
+
+### Why?
+
+Without stopping, the vehicle could cover 54 km in an hour.
+
+With stoppages, it averages 45 km in an hour.
+
+The difference is 9 km, equivalent to 10 minutes of travel at 54 km/hour.
+
+---
+
+## 15. Special Case: Meeting and Reaching the Destinations
+
+Two people start at the same time from opposite ends and meet on the way.
+
+After meeting:
+- Person A takes t1 time to reach B's starting point.
+- Person B takes t2 time to reach A's starting point.
+
+The lecture gives this shortcut for the time from starting until they meet:
+
+**Meeting time = √(t1 × t2)**
+
+### Example
+
+After meeting, one person takes 24 minutes to reach the destination, while the other takes 54 minutes.
+
+Meeting time:
+
+= √(24 × 54)
+
+= √1,296
+
+= 36 minutes
+
+If both started at 9:00 AM, they meet at **9:36 AM**.
+
+### Important
+
+This is a special case. Use it only when the question matches the described setup: both start together from opposite ends and the given times are the times taken to reach the opposite destinations after meeting.
+
+---
+
+## 16. Special Case: Finding One Speed from the Post-Meeting Times
+
+The lecture gives the following special-case relationship:
+
+S1/S2 = √(t2/t1)
+
+Here:
+- S1 and S2 are the speeds of the two people.
+- t1 is the first person's time to finish the remaining journey after meeting.
+- t2 is the second person's time to finish the remaining journey after meeting.
+
+### Example
+
+Person A's speed is 32 km/hour.
+
+After meeting:
+- A takes 4 hours to reach the destination.
+- B takes 8 hours to reach the destination.
+
+Using the relationship:
+
+32/S2 = √(8/4)
+
+32/S2 = √2
+
+S2 = 32/√2
+
+**Answer: 16√2 km/hour**
+
+Note: The transcript's spoken arithmetic for this example is unclear. Use the formula and calculate carefully rather than relying on the unclear spoken final number.
+
+---
+
+## 17. Staggered Starting Times: Meeting Questions
+
+When one person starts later:
+
+1. Calculate how long the first person travels alone.
+2. Find the distance covered during that time.
+3. Subtract that distance from the original gap.
+4. Apply relative speed to the remaining gap.
+5. Add the calculated time to the later person's starting time.
+
+### Example
+
+A starts at 8:00 AM at 60 km/hour.
+
+B starts at 8:30 AM at 70 km/hour, travelling towards A.
+
+Initial distance = 680 km.
+
+A's head start = 0.5 × 60 = 30 km
+
+Remaining distance = 680 − 30 = 650 km
+
+Relative speed = 60 + 70 = 130 km/hour
+
+Time after B starts = 650/130 = 5 hours
+
+Meeting time = 8:30 AM + 5 hours
+
+**Answer: 1:30 PM**
+
+---
+
+## 18. Meeting When One Person Changes Speed Later
+
+If a vehicle changes its speed at a particular time, divide the journey into stages.
+
+### Method
+
+1. Calculate the distance covered by each vehicle before the speed change.
+2. Find the distance still remaining between them.
+3. Update the changed speed.
+4. Apply relative speed to the remaining distance.
+5. Calculate the meeting time.
+
+### Example from the Lecture
+
+Two cars are 440 km apart.
+
+- Car A starts at 9:00 AM at 55 km/hour.
+- Car B starts at 11:00 AM at 45 km/hour.
+- At noon, Car A increases its speed by 15 km/hour, so its new speed becomes 70 km/hour.
+- They travel towards each other.
+
+From 9 AM to noon, Car A travels:
+
+55 × 3 = 165 km
+
+From 11 AM to noon, Car B travels:
+
+45 × 1 = 45 km
+
+Total distance covered by noon:
+
+165 + 45 = 210 km
+
+Remaining distance:
+
+440 − 210 = 230 km
+
+After noon, relative speed:
+
+70 + 45 = 115 km/hour
+
+Time to meet:
+
+230/115 = 2 hours
+
+**Answer: 2:00 PM**
+
+---
+
+## 19. Police and Thief Questions
+
+These are same-direction relative-speed questions.
+
+### Formula
+
+Time to catch = Initial gap / (Police speed − Thief speed)
+
+Distance covered by thief = Thief speed × Catching time
+
+Distance covered by police = Police speed × Catching time
+
+### Example
+
+Initial gap = 300 m
+
+Police speed = 7 m/second
+
+Thief speed = 5 m/second
+
+Relative speed = 7 − 5 = 2 m/second
+
+Catching time = 300/2 = 150 seconds
+
+Thief's distance = 5 × 150 = 750 m
+
+Police's distance = 7 × 150 = 1,050 m
+
+**Answers:**
+- Catching time = 150 seconds
+- Thief's distance = 750 metres
+- Police's distance = 1,050 metres
+
+---
+
+## 20. Important Exam Tricks
+
+1. **Always check units first.** Convert km/hour to m/second when required.
+2. Use Distance = Speed × Time only when the units are compatible.
+3. For a fixed distance, speed and time are inversely proportional.
+4. Average speed always means total distance divided by total time.
+5. For equal distances, use 2S1S2/(S1 + S2).
+6. For equal times, use (S1 + S2)/2.
+7. Same direction: subtract speeds.
+8. Opposite directions: add speeds.
+9. If start times differ, calculate the head start first.
+10. If speed changes during a journey, divide the journey into stages.
+11. When two people reach the same destination, their total distances are equal.
+12. In questions involving time differences, convert minutes into hours if speed is in km/hour.
+13. Do not confuse the speed increase with the new speed. If speed increases from 40 to 50, use 50 as the new speed.
+14. Use special post-meeting formulas only when the question matches their conditions.
+15. Write down the units in the final answer.
+
+---
+
+## 21. Formula Revision Sheet
+
+| Concept | Formula |
+|---|---|
+| Speed | Distance / Time |
+| Distance | Speed × Time |
+| Time | Distance / Speed |
+| km/hour to m/second | Multiply by 5/18 |
+| m/second to km/hour | Multiply by 18/5 |
+| Average speed | Total distance / Total time |
+| Average speed for equal distances | 2S1S2 / (S1 + S2) |
+| Average speed for equal times | (S1 + S2) / 2 |
+| Relative speed, same direction | S1 − S2 |
+| Relative speed, opposite directions | S1 + S2 |
+| Catching time | Initial gap / Relative speed |
+| Speed-time relationship for fixed distance | Speed × Time = Constant |
+| Stoppage time per hour | (Moving speed − Average speed) / Moving speed × 60 |
+| Special post-meeting time | √(t1 × t2) |
+
+---
+
+## 22. Practice Questions
+
+Try these questions before checking the answers.
+
+### Questions
+
+1. A car travels at 72 km/hour for 3 hours. Find the distance.
+
+2. Convert 90 km/hour into metres/second.
+
+3. Convert 20 m/second into km/hour.
+
+4. A person covers 120 km in 3 hours and another 80 km in 2 hours. Find the average speed.
+
+5. A person covers equal distances at 30 km/hour and 60 km/hour. Find the average speed.
+
+6. Two people are 240 km apart and travel towards each other at 50 km/hour and 70 km/hour. When will they meet?
+
+7. A thief is 200 metres ahead of a policeman. Their speeds are 4 m/second and 6 m/second respectively. Find the catching time.
+
+8. A vehicle moves at 60 km/hour without stopping and averages 50 km/hour including stops. Find the stoppage time per hour.
+
+9. A person travels the same distance at 40 km/hour and 60 km/hour. Find the average speed.
+
+10. A person travels at 15 m/second for 2 minutes. Find the distance in metres.
+
+### Answers
+
+1. 216 km
+2. 25 m/second
+3. 72 km/hour
+4. 40 km/hour
+5. 40 km/hour
+6. 2 hours
+7. 100 seconds
+8. 10 minutes per hour
+9. 48 km/hour
+10. 1,800 metres
+
+---
+
+## 23. Final Revision
+
+Remember these four core ideas:
+
+- **Distance = Speed × Time**
+- **Average speed = Total distance / Total time**
+- **Same direction = Difference of speeds**
+- **Opposite directions = Sum of speeds**
+
+Before solving any question, ask yourself:
+
+1. What do I need to find: speed, time, distance, or average speed?
+2. Are all units compatible?
+3. Are the distances equal, the times equal, or neither?
+4. Are the people moving in the same direction or opposite directions?
+5. Did both people start at the same time?
+6. Did anyone change speed or stop during the journey?
+
+If you identify the correct case first, most Speed, Time and Distance questions become much easier.
+
 
 # Speed, Time & Distance – Complete Notes (Hinglish)
 
