@@ -1,3 +1,911 @@
+# Partnership – Complete Notes
+
+## 1. What Is Partnership?
+
+Partnership is a type of business in which two or more people invest money and share the profit or loss.
+
+Each partner's share depends mainly on:
+
+1. The amount of money invested (Capital).
+2. The time for which the money is invested.
+
+### Main Formula
+
+**Profit Share = Investment × Time**
+
+For multiple partners:
+
+**Profit Ratio = Capital × Investment Time**
+
+More precisely:
+
+**Profit Ratio = (Capital₁ × Time₁) : (Capital₂ × Time₂) : ...**
+
+This is the most important formula in partnership questions.
+
+---
+
+## 2. Case 1: All Partners Invest for the Same Time
+
+When all partners invest money for the same duration, their profit ratio is equal to their investment ratio.
+
+### Formula
+
+If time is the same:
+
+**Profit Ratio = Capital Ratio**
+
+### Example
+
+A invests ₹20,000.
+B invests ₹30,000.
+
+Both invest for one year.
+
+Capital ratio:
+
+20,000 : 30,000
+
+Divide both sides by 10,000:
+
+**A : B = 2 : 3**
+
+Therefore, their profit ratio is also:
+
+**2 : 3**
+
+If the total profit is ₹25,000:
+
+Total ratio parts = 2 + 3 = 5
+
+A's share:
+
+= ₹25,000 × 2/5
+
+= ₹10,000
+
+B's share:
+
+= ₹25,000 × 3/5
+
+= ₹15,000
+
+**Answer: A gets ₹10,000 and B gets ₹15,000.**
+
+### Remember
+
+If the investment time is the same, you do not need to multiply by time again.
+
+---
+
+## 3. Case 2: Partners Invest for Different Times
+
+When partners invest for different durations, multiply each person's capital by their investment time.
+
+### Formula
+
+**Profit Ratio = Capital₁ × Time₁ : Capital₂ × Time₂**
+
+### Example
+
+A invests ₹20,000 for 6 months.
+B invests ₹30,000 for 4 months.
+
+A's capital-time value:
+
+20,000 × 6 = 120,000
+
+B's capital-time value:
+
+30,000 × 4 = 120,000
+
+Profit ratio:
+
+120,000 : 120,000
+
+**A : B = 1 : 1**
+
+Both receive equal profit.
+
+### Another Example
+
+A invests ₹10,000 for 12 months.
+B invests ₹20,000 for 6 months.
+
+A's capital-time value:
+
+10,000 × 12 = 120,000
+
+B's capital-time value:
+
+20,000 × 6 = 120,000
+
+Profit ratio:
+
+**1 : 1**
+
+Even though B invested twice as much money, A invested for twice as long.
+
+Therefore, their profit shares are equal.
+
+---
+
+## 4. How to Calculate Each Partner's Profit Share
+
+When the total profit is given, use the ratio.
+
+### Formula
+
+If the profit ratio is:
+
+A : B : C = a : b : c
+
+Then:
+
+Total Parts = a + b + c
+
+A's Share = Total Profit × a / (a + b + c)
+
+B's Share = Total Profit × b / (a + b + c)
+
+C's Share = Total Profit × c / (a + b + c)
+
+### Example
+
+The profit ratio of A, B, and C is 2 : 3 : 5.
+
+Total profit = ₹50,000.
+
+Total parts:
+
+2 + 3 + 5 = 10
+
+A's share:
+
+₹50,000 × 2/10 = ₹10,000
+
+B's share:
+
+₹50,000 × 3/10 = ₹15,000
+
+C's share:
+
+₹50,000 × 5/10 = ₹25,000
+
+**Answer: ₹10,000, ₹15,000, and ₹25,000 respectively.**
+
+### Important Rule
+
+The sum of all partners' profit shares must equal the total profit.
+
+---
+
+## 5. Example: Three Partners with Different Investments and Times
+
+A invests ₹4,000 for 3 years.
+B invests ₹6,000 for 2 years.
+C invests ₹8,000 for 4 years.
+
+The total profit is ₹56,000. Find B's share.
+
+### Step 1: Calculate Capital × Time
+
+A = 4,000 × 3 = 12,000
+
+B = 6,000 × 2 = 12,000
+
+C = 8,000 × 4 = 32,000
+
+### Step 2: Find the Ratio
+
+12,000 : 12,000 : 32,000
+
+Divide by 4,000:
+
+**3 : 3 : 8**
+
+### Step 3: Find Total Parts
+
+3 + 3 + 8 = 14
+
+### Step 4: Calculate B's Share
+
+B's share:
+
+= ₹56,000 × 3/14
+
+= ₹12,000
+
+**Answer: ₹12,000**
+
+---
+
+## 6. When the Investment Ratio Is Given but Time Is Not Given
+
+If the question gives only the investment ratio and does not mention different investment periods, use the investment ratio as the profit ratio, assuming all partners invest for the same duration.
+
+### Example
+
+A invests seven times as much as B.
+
+Investment ratio:
+
+A : B = 7 : 1
+
+Total profit = ₹2,75,000.
+
+Total parts:
+
+7 + 1 = 8
+
+A's share:
+
+= ₹2,75,000 × 7/8
+
+= ₹2,40,625
+
+**Answer: ₹2,40,625**
+
+### Remember
+
+When the investment duration is equal:
+
+**Investment Ratio = Profit Ratio**
+
+---
+
+## 7. Finding the Investment Ratio When Time and Profit Ratios Are Given
+
+Sometimes the question gives:
+- The time ratio.
+- The profit ratio.
+- And asks for the investment ratio.
+
+Use:
+
+**Investment = Profit Share / Time**
+
+For ratios, divide each profit ratio term by its corresponding time ratio term.
+
+### Formula
+
+If:
+
+Time ratio = a : b : c
+
+Profit ratio = x : y : z
+
+Then:
+
+Investment ratio = x/a : y/b : z/c
+
+To avoid fractions, multiply through by a common denominator.
+
+### Example
+
+Time ratio:
+
+A : B : C = 3 : 2 : 7
+
+Profit ratio:
+
+A : B : C = 4 : 3 : 14
+
+Investment ratio:
+
+= 4/3 : 3/2 : 14/7
+
+= 4/3 : 3/2 : 2
+
+Multiply all terms by 6:
+
+= 8 : 9 : 12
+
+**Answer: 8 : 9 : 12**
+
+### Cross-Multiplication Shortcut
+
+For three partners:
+
+Investment ratio is proportional to:
+
+- A: A's profit ratio × B's time × C's time
+- B: B's profit ratio × A's time × C's time
+- C: C's profit ratio × A's time × B's time
+
+For the example:
+
+A = 4 × 2 × 7 = 56
+
+B = 3 × 3 × 7 = 63
+
+C = 14 × 3 × 2 = 84
+
+Ratio:
+
+56 : 63 : 84
+
+Divide by 7:
+
+**8 : 9 : 12**
+
+---
+
+## 8. When a Partner Joins Later
+
+If a partner joins after some months, they invest for fewer months than the original partners.
+
+### Formula
+
+**Profit Share = Capital × Number of Months Invested**
+
+### Example
+
+A invests ₹45,000 at the beginning of the year.
+
+B invests ₹30,000 and joins later.
+
+At the end of the year, their profit ratio is 2 : 1.
+
+Find when B joined.
+
+### Step 1: Set Up the Ratio
+
+A invests for 12 months.
+
+B invests for x months.
+
+Therefore:
+
+A's capital-time value = 45,000 × 12
+
+B's capital-time value = 30,000 × x
+
+Profit ratio:
+
+(45,000 × 12) : (30,000 × x) = 2 : 1
+
+### Step 2: Simplify
+
+540,000 : 30,000x = 2 : 1
+
+Divide the left terms by 30,000:
+
+18 : x = 2 : 1
+
+Therefore:
+
+18/x = 2/1
+
+18 = 2x
+
+x = 9 months
+
+B invested for 9 months.
+
+### Step 3: Find When B Joined
+
+A full year = 12 months.
+
+B invested for 9 months.
+
+Joining time = 12 − 9 = 3 months after the beginning.
+
+**Answer: B joined after 3 months.**
+
+### Important Difference
+
+- "How many months did B invest?" → 9 months.
+- "After how many months did B join?" → 3 months.
+
+---
+
+## 9. When a Partner Joins and Another Partner Withdraws
+
+In these questions, calculate how long each person's capital remained in the business.
+
+### Example
+
+A invests ₹25,000 for one year.
+B invests ₹50,000 for one year.
+After 7 months, C joins with ₹30,000.
+After 9 months, A withdraws the entire investment.
+
+Find C's share if the total profit is ₹3,900.
+
+### Step 1: Simplify the Capital Ratio
+
+Capital ratio:
+
+25,000 : 50,000 : 30,000
+
+Divide by 5,000:
+
+**5 : 10 : 6**
+
+### Step 2: Find Investment Time
+
+A withdraws after 9 months.
+
+A's investment time = 9 months.
+
+B remains for the full year.
+
+B's investment time = 12 months.
+
+C joins after 7 months.
+
+C's investment time = 12 − 7 = 5 months.
+
+### Step 3: Multiply Capital by Time
+
+A = 5 × 9 = 45
+
+B = 10 × 12 = 120
+
+C = 6 × 5 = 30
+
+Profit ratio:
+
+45 : 120 : 30
+
+Divide by 15:
+
+**3 : 8 : 2**
+
+### Step 4: Find C's Share
+
+Total parts:
+
+3 + 8 + 2 = 13
+
+C's share:
+
+= ₹3,900 × 2/13
+
+= ₹600
+
+**Answer: ₹600**
+
+### Remember
+
+- A partner who withdraws money stops earning profit on the withdrawn capital from that point onward.
+- A partner who joins later earns profit only for the remaining period.
+- If only part of the capital is withdrawn, calculate the two time periods separately.
+
+---
+
+## 10. When Partners Leave at Different Times
+
+### Example
+
+A, B, and C invest in the ratio:
+
+A : B : C = 5 : 7 : 10
+
+C leaves after 3 months.
+
+B leaves 7 months after C leaves.
+
+A remains for the entire year.
+
+Find the ratio of their profit shares.
+
+### Step 1: Find the Investment Durations
+
+C invests for 3 months.
+
+B leaves 7 months after C leaves.
+
+B invests for:
+
+3 + 7 = 10 months
+
+A invests for:
+
+12 months
+
+### Step 2: Multiply Capital by Time
+
+A = 5 × 12 = 60
+
+B = 7 × 10 = 70
+
+C = 10 × 3 = 30
+
+Profit ratio:
+
+60 : 70 : 30
+
+Divide by 10:
+
+**A : B : C = 6 : 7 : 3**
+
+### Step 3: Find A and B's Combined Share
+
+A + B = 6 + 7 = 13 parts
+
+Total parts:
+
+6 + 7 + 3 = 16 parts
+
+Therefore, A and B together receive:
+
+13/16 of the total profit.
+
+**Important:** If a question asks for the combined share of A and B, add their ratio parts before calculating the amount.
+
+---
+
+## 11. When Capital Is Increased After Some Months
+
+If a partner adds more capital, divide the investment into separate periods.
+
+### Example
+
+A initially invests ₹30,000.
+After 5 months, A increases the capital by 50%.
+
+Find A's total capital-time value for the year.
+
+### Step 1: First 5 Months
+
+Initial capital = ₹30,000
+
+Capital-time value:
+
+30,000 × 5 = 150,000
+
+### Step 2: Calculate the New Capital
+
+50% of ₹30,000:
+
+= ₹15,000
+
+New capital:
+
+30,000 + 15,000 = ₹45,000
+
+### Step 3: Remaining 7 Months
+
+Capital-time value:
+
+45,000 × 7 = 315,000
+
+### Step 4: Add Both Periods
+
+Total capital-time value:
+
+150,000 + 315,000 = 465,000
+
+**Answer: 465,000 capital-month units.**
+
+### Important Rule
+
+When capital changes:
+
+**Total Capital-Time Value = Sum of (Capital × Time) for Each Period**
+
+---
+
+## 12. When Capital Is Reduced or Partially Withdrawn
+
+If a partner withdraws a percentage of their capital, calculate the remaining capital and use it for the remaining months.
+
+### Example
+
+B initially invests ₹50,000.
+
+After 5 months, B withdraws 60% of the capital.
+
+Find B's capital-time value for the year.
+
+### Step 1: First 5 Months
+
+Capital = ₹50,000
+
+Capital-time value:
+
+50,000 × 5 = 250,000
+
+### Step 2: Calculate the Withdrawal
+
+60% of ₹50,000:
+
+= ₹30,000
+
+Remaining capital:
+
+50,000 − 30,000 = ₹20,000
+
+### Step 3: Remaining 7 Months
+
+Capital-time value:
+
+20,000 × 7 = 140,000
+
+### Step 4: Add Both Periods
+
+Total capital-time value:
+
+250,000 + 140,000 = 390,000
+
+**Answer: 390,000 capital-month units.**
+
+### Remember
+
+- Increase capital → Add the increase.
+- Withdraw capital → Subtract the withdrawal.
+- Calculate each capital amount for the time it remained invested.
+
+---
+
+## 13. When One Partner Increases Capital and Another Withdraws Capital
+
+These questions combine both concepts.
+
+### Example
+
+A and B initially invest in the ratio:
+
+A : B = 30 : 50
+
+After 5 months:
+- A increases their capital by 50%.
+- B withdraws 60% of their capital.
+
+Find the profit ratio at the end of the year.
+
+### Step 1: First 5 Months
+
+A's capital = 30
+
+B's capital = 50
+
+A's capital-time value:
+
+30 × 5 = 150
+
+B's capital-time value:
+
+50 × 5 = 250
+
+### Step 2: Calculate the New Capitals
+
+A increases capital by 50%:
+
+30 + 15 = 45
+
+B withdraws 60%:
+
+50 − 30 = 20
+
+### Step 3: Calculate the Remaining 7 Months
+
+A's capital-time value:
+
+45 × 7 = 315
+
+B's capital-time value:
+
+20 × 7 = 140
+
+### Step 4: Add the Values
+
+A's total:
+
+150 + 315 = 465
+
+B's total:
+
+250 + 140 = 390
+
+Profit ratio:
+
+465 : 390
+
+Divide by 15:
+
+**A : B = 31 : 26**
+
+### Important Note
+
+This example uses the capital ratios as relative values. Actual rupee investments are not necessary when only the final ratio is required.
+
+---
+
+## 14. How to Calculate a Percentage Increase or Decrease in Capital
+
+### Capital Increased by p%
+
+New Capital:
+
+= Original Capital × (100 + p)/100
+
+### Capital Decreased by p%
+
+Remaining Capital:
+
+= Original Capital × (100 − p)/100
+
+### Example 1: Increase by 50%
+
+Original capital = ₹30,000
+
+New capital:
+
+= 30,000 × 150/100
+
+= ₹45,000
+
+### Example 2: Decrease by 60%
+
+Original capital = ₹50,000
+
+Remaining capital:
+
+= 50,000 × 40/100
+
+= ₹20,000
+
+### Shortcut
+
+For percentage-based capital changes, using 100 or another convenient multiple can make the arithmetic easier when only a ratio is required.
+
+---
+
+## 15. Solving Partnership Questions Quickly
+
+Follow this method in most questions.
+
+### Step 1: Write the Partners
+
+For example:
+
+A, B, C
+
+### Step 2: Write Their Capitals
+
+Use the given amounts or simplify them to a ratio if possible.
+
+### Step 3: Find the Investment Time
+
+For each partner, ask:
+- When did the partner join?
+- When did the partner leave?
+- Did the partner increase capital?
+- Did the partner withdraw capital?
+
+### Step 4: Calculate Capital × Time
+
+For a constant investment:
+
+Capital × Months
+
+For a changing investment:
+
+Add the capital-time values for all periods.
+
+### Step 5: Simplify the Profit Ratio
+
+Divide by common factors.
+
+### Step 6: Calculate the Required Share
+
+If the total profit is given:
+
+Partner's Share = Total Profit × Partner's Ratio Part / Total Ratio Parts
+
+### Step 7: Read the Question Carefully
+
+It may ask for:
+- A partner's share
+- The combined share of two partners
+- The difference between two shares
+- The time when a partner joined
+- The investment ratio
+
+These require different final calculations.
+
+---
+
+## 16. Common Mistakes
+
+1. Using only the investment ratio when the partners invest for different durations.
+2. Forgetting to multiply capital by time.
+3. Counting a partner's investment time incorrectly.
+4. Confusing "joined after 3 months" with "invested for 3 months."
+5. Forgetting that a partner who joins after 7 months invests for only 5 months in a 12-month year.
+6. Forgetting that a partner who leaves after 9 months has invested for 9 months.
+7. Applying a percentage increase to the wrong capital amount.
+8. Subtracting the wrong percentage when capital is withdrawn.
+9. Ignoring the capital-time value of the earlier period when capital changes.
+10. Calculating an individual share when the question asks for the combined share.
+11. Forgetting to add all the ratio parts before dividing the total profit.
+12. Mixing months and years without converting to the same unit.
+
+---
+
+## 17. Practice Questions
+
+Try solving these questions yourself.
+
+### Question 1
+A invests ₹20,000 and B invests ₹30,000 for the same duration. Find their profit ratio.
+
+### Question 2
+A invests ₹10,000 for 12 months. B invests ₹20,000 for 6 months. Find their profit ratio.
+
+### Question 3
+A, B, and C have a profit ratio of 2 : 3 : 5. If the total profit is ₹50,000, find B's share.
+
+### Question 4
+A invests ₹4,000 for 3 years, B invests ₹6,000 for 2 years, and C invests ₹8,000 for 4 years. If the total profit is ₹56,000, find B's share.
+
+### Question 5
+A invests seven times as much as B. The total profit is ₹2,75,000. Find A's share, assuming equal investment time.
+
+### Question 6
+A invests ₹45,000 for 12 months. B invests ₹30,000 and earns profit in the ratio A : B = 2 : 1. Find how many months B invested and when B joined.
+
+### Question 7
+A invests ₹25,000 for 9 months, B invests ₹50,000 for 12 months, and C invests ₹30,000 for 5 months. Find the profit ratio.
+
+### Question 8
+A, B, and C invest in the ratio 5 : 7 : 10. C leaves after 3 months, B leaves 7 months later, and A remains for the whole year. Find their profit ratio.
+
+### Question 9
+A initially invests ₹30,000 and increases the capital by 50% after 5 months. Find A's capital-time value for the year.
+
+### Question 10
+B initially invests ₹50,000 and withdraws 60% after 5 months. Find B's capital-time value for the year.
+
+---
+
+## 18. Answers
+
+1. 2 : 3
+2. 1 : 1
+3. ₹15,000
+4. ₹12,000
+5. ₹2,40,625
+6. B invested for 9 months and joined after 3 months
+7. 3 : 8 : 2
+8. 6 : 7 : 3
+9. 465,000 capital-month units
+10. 390,000 capital-month units
+
+---
+
+## 19. Final Revision Sheet
+
+| Situation | Rule |
+|---|---|
+| Same investment time | Profit ratio = Capital ratio |
+| Different investment times | Profit ratio = Capital × Time |
+| Total profit given | Share = Total Profit × Ratio Part / Total Parts |
+| Partner joins later | Time invested = Total period − Months before joining |
+| Partner leaves | Count only the months the capital remained invested |
+| Capital increases | Use the new capital for the remaining period |
+| Capital decreases | Use the remaining capital for the remaining period |
+| Capital changes more than once | Add Capital × Time for every period |
+| Combined profit share | Add the required partners' ratio parts |
+| Difference in shares | Subtract the relevant ratio parts |
+
+## 20. Most Important Formula
+
+**Profit Ratio = Capital × Time**
+
+For changing capital:
+
+**Total Capital-Time Value = (Capital₁ × Time₁) + (Capital₂ × Time₂) + ...**
+
+For an individual partner's share:
+
+**Partner's Share = Total Profit × Partner's Capital-Time Value / Sum of All Partners' Capital-Time Values**
+
+Remember these formulas and carefully track the number of months each partner's money remains invested. Most partnership questions in this lecture can be solved using these principles.
+
 # Partnership – Complete Notes (Hinglish)
 
 > Source: Banking Foundation 2026 – Partnership session (Viral Maths).
