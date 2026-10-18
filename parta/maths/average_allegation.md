@@ -1,3 +1,922 @@
+# Average (औसत) – Complete Notes
+
+## 1. What Is Average?
+
+Average is a value that represents a group of numbers.
+
+It is also called:
+- Mean
+- Mean value
+- Representative value of a group
+
+### Main Formula
+
+**Average = Sum of Observations / Number of Observations**
+
+\[
+\text{Average}=\frac{\text{Sum}}{\text{Number of Observations}}
+\]
+
+Example:
+
+Find the average of 25, 28, 30 and 32.
+
+Sum = 25 + 28 + 30 + 32 = 115
+
+Number of observations = 4
+
+Average = 115 / 4 = **28.75**
+
+---
+
+## 2. Finding the Sum When Average Is Given
+
+If the average and the number of observations are given, we can calculate the sum directly.
+
+### Formula
+
+**Sum = Average × Number of Observations**
+
+Example 1:
+
+The average of 8 numbers is 50. Find their sum.
+
+Sum = 50 × 8 = **400**
+
+Example 2:
+
+The average of 12 numbers is 24.
+
+Sum = 24 × 12 = **288**
+
+### Remember
+
+- Average given, sum required → Multiply.
+- Sum given, average required → Divide.
+
+---
+
+## 3. Highway Approach (Assumed Average Method)
+
+This method helps calculate averages quickly without adding every number directly.
+
+The idea is to assume a convenient average and calculate how much each number is above or below it.
+
+### Formula
+
+**Actual Average = Assumed Average + (Net Difference / Number of Observations)**
+
+Where:
+
+- Net Difference = Sum of all positive differences − Sum of all negative differences.
+- Positive difference means a number is above the assumed average.
+- Negative difference means a number is below the assumed average.
+
+### Example
+
+Find the average of 35, 25, 20, 30 and 46.
+
+Step 1: Assume the average is 30.
+
+| Number | Difference from 30 |
+|---:|---:|
+| 35 | +5 |
+| 25 | -5 |
+| 20 | -10 |
+| 30 | 0 |
+| 46 | +16 |
+
+Step 2: Calculate the net difference.
+
+Net Difference = 5 − 5 − 10 + 0 + 16 = +6
+
+Step 3: Divide by the number of observations.
+
+Correction = 6 / 5 = 1.2
+
+Step 4: Add the correction to the assumed average.
+
+Actual Average = 30 + 1.2 = **31.2**
+
+### Important Points
+
+- You can assume any convenient value.
+- A value near the numbers is often easier to use.
+- The final answer remains the same regardless of the assumed value.
+
+---
+
+## 4. Average of Numbers with Equal Gaps
+
+When numbers are arranged in increasing or decreasing order and the gap between consecutive numbers is equal, the average is the middle value.
+
+### Rule 1: Odd Number of Observations
+
+The middle number is the average.
+
+Example:
+
+12, 14, 16, 18, 20
+
+The middle number is 16.
+
+Average = **16**
+
+### Rule 2: Even Number of Observations
+
+Take the average of the two middle numbers.
+
+Example:
+
+12, 14, 16, 18, 20, 22
+
+Middle numbers = 16 and 18
+
+Average = (16 + 18) / 2 = **17**
+
+### Rule 3: First and Last Number Shortcut
+
+For an equally spaced sequence:
+
+**Average = (First Number + Last Number) / 2**
+
+Example:
+
+224, 227, 230, 233, 236
+
+Average = (224 + 236) / 2
+
+= 460 / 2
+
+= **230**
+
+### Important Condition
+
+Before applying this shortcut, check that:
+
+1. The numbers are in order.
+2. The gap between consecutive numbers is equal.
+
+---
+
+## 5. Average of Multiples
+
+Multiples of the same number have equal gaps.
+
+Example:
+
+Find the average of the multiples of 9 between 14 and 100.
+
+The multiples are:
+
+18, 27, 36, 45, 54, 63, 72, 81, 90, 99
+
+First number = 18
+
+Last number = 99
+
+Average = (18 + 99) / 2
+
+= 117 / 2
+
+= **58.5**
+
+### Important
+
+Read the boundaries carefully.
+
+For numbers strictly between 14 and 100:
+- Do not include 14.
+- Do not include 100.
+- Include only the multiples that satisfy the condition.
+
+---
+
+## 6. Average of Consecutive Natural Numbers
+
+For the first \(n\) natural numbers:
+
+1, 2, 3, ..., \(n\)
+
+### Sum Formula
+
+\[
+1+2+\cdots+n=\frac{n(n+1)}{2}
+\]
+
+### Average Formula
+
+\[
+\text{Average}=\frac{n+1}{2}
+\]
+
+Example:
+
+Find the average of the first 71 natural numbers.
+
+Average = (71 + 1) / 2
+
+= 72 / 2
+
+= **36**
+
+### Sum Example
+
+Find the sum of the first 100 natural numbers.
+
+Sum = 100 × 101 / 2
+
+= **5,050**
+
+---
+
+## 7. Sum of Cubes
+
+For the first \(n\) natural numbers:
+
+\[
+1^3+2^3+\cdots+n^3
+=\left(\frac{n(n+1)}{2}\right)^2
+\]
+
+### Shortcut
+
+1. Calculate the sum of the first \(n\) natural numbers.
+2. Square that sum.
+
+Example:
+
+Find:
+
+\[
+1^3+2^3+3^3+4^3+5^3
+\]
+
+Sum of the first five natural numbers:
+
+\[
+\frac{5(5+1)}{2}=15
+\]
+
+Sum of cubes:
+
+\[
+15^2=\boxed{225}
+\]
+
+If the average of these five cubes is required:
+
+Average = 225 / 5 = **45**
+
+---
+
+## 8. Sum of Squares
+
+For the first \(n\) natural numbers:
+
+\[
+1^2+2^2+\cdots+n^2
+=\frac{n(n+1)(2n+1)}{6}
+\]
+
+Example:
+
+Find the sum of the squares of the first 10 natural numbers.
+
+\[
+\frac{10(11)(21)}{6}
+\]
+
+= 10 × 11 × 21 / 6
+
+= **385**
+
+### Remember
+
+- Sum of natural numbers: \(n(n+1)/2\)
+- Sum of squares: \(n(n+1)(2n+1)/6\)
+- Sum of cubes: \([n(n+1)/2]^2\)
+
+---
+
+## 9. Properties of Average
+
+These properties are useful for solving questions without recalculating the entire average.
+
+Suppose the original average is \(A\).
+
+### Property 1: Adding the Same Number
+
+If the same number \(k\) is added to every observation:
+
+New Average = \(A+k\)
+
+Example:
+
+Original numbers: 20, 22, 24, 26, 28
+
+Average = 24
+
+Add 5 to every number.
+
+New average = 24 + 5 = **29**
+
+### Property 2: Subtracting the Same Number
+
+If the same number \(k\) is subtracted from every observation:
+
+New Average = \(A-k\)
+
+Example:
+
+Original average = 24
+
+Subtract 3 from every observation.
+
+New average = 24 − 3 = **21**
+
+### Property 3: Multiplying Every Number
+
+If every observation is multiplied by \(k\):
+
+New Average = \(A \times k\)
+
+### Property 4: Dividing Every Number
+
+If every observation is divided by \(k\), where \(k\neq 0\):
+
+New Average = \(A/k\)
+
+### General Rule
+
+Any operation applied equally to every observation produces the corresponding operation on the average.
+
+---
+
+## 10. Finding Missing Numbers Using Average
+
+When the average is given and some numbers are unknown, first find the total sum.
+
+### Formula
+
+Total Sum = Average × Number of Observations
+
+Then:
+
+Missing Value = Total Sum − Sum of Known Values
+
+### Example 1
+
+The average of 3, 8, 9 and \(x\) is 6. Find \(x\).
+
+There are 4 observations.
+
+Total sum = 6 × 4 = 24
+
+Known sum = 3 + 8 + 9 = 20
+
+Therefore:
+
+\(x=24-20=\boxed{4}\)
+
+### Example 2
+
+The average of 17, 2, 5, \(x\) and \(y\) is 8.
+
+Find \(y\) if \(x=4\).
+
+Total sum = 8 × 5 = 40
+
+Known sum = 17 + 2 + 5 + 4 = 28
+
+Therefore:
+
+\(y=40-28=\boxed{12}\)
+
+---
+
+## 11. Consecutive Even and Odd Numbers
+
+Consecutive even numbers differ by 2.
+
+Consecutive odd numbers also differ by 2.
+
+For consecutive even numbers:
+
+\[
+x,\ x+2,\ x+4,\ x+6,\ldots
+\]
+
+For consecutive odd numbers:
+
+\[
+x,\ x+2,\ x+4,\ x+6,\ldots
+\]
+
+The starting value of \(x\) determines whether the numbers are even or odd.
+
+### Example
+
+The average of six consecutive odd numbers is 28.
+
+Let the numbers be:
+
+\(x,\ x+2,\ x+4,\ x+6,\ x+8,\ x+10\)
+
+For an equally spaced sequence, the average is the midpoint of the first and last numbers.
+
+Average = \(x+5\)
+
+Therefore:
+
+\(x+5=28\)
+
+\(x=23\)
+
+The numbers are:
+
+23, 25, 27, 29, 31, 33
+
+Largest number = **33**
+
+### Shortcut
+
+For an odd number of equally spaced observations, use the middle number.
+
+For an even number of equally spaced observations, use the average of the two middle numbers.
+
+---
+
+## 12. Combined Average of Two Groups
+
+When two groups have different averages, the combined average is a weighted average.
+
+### Formula
+
+\[
+\text{Combined Average}
+=\frac{n_1A_1+n_2A_2}{n_1+n_2}
+\]
+
+Where:
+
+- \(n_1\) = Number of people in Group 1
+- \(A_1\) = Average of Group 1
+- \(n_2\) = Number of people in Group 2
+- \(A_2\) = Average of Group 2
+
+### Example
+
+10 students have an average score of 20.
+
+8 students have an average score of 25.
+
+Find the combined average.
+
+Group 1 sum = 10 × 20 = 200
+
+Group 2 sum = 8 × 25 = 200
+
+Combined sum = 200 + 200 = 400
+
+Total students = 10 + 8 = 18
+
+Combined average:
+
+\[
+\frac{400}{18}=\boxed{22.22\ldots}
+\]
+
+### Important Rule
+
+Do not simply average the two group averages unless the groups contain the same number of observations.
+
+For example, \((20+25)/2\) is not the correct combined average here because the group sizes differ.
+
+### Ratio Shortcut
+
+If the group sizes are given as a ratio, simplify the ratio first.
+
+For example, 10 : 8 = 5 : 4.
+
+The combined average can then be calculated using 5 and 4 as the relative group sizes.
+
+---
+
+## 13. Average of Different Sections of a Group
+
+Sometimes the average of one section, another section, and the whole group are given.
+
+### Method
+
+1. Calculate the sum of each section using Average × Number.
+2. Add the section sums.
+3. Compare the result with the total sum, if the total average is given.
+4. Find the missing sum or average.
+
+### Example
+
+The average height of the first 6 students is 70 cm.
+
+The average height of the last 4 students is 75 cm.
+
+The average height of all 16 students is 100 cm.
+
+Find the total height of the remaining 6 students.
+
+First 6 students' total:
+
+6 × 70 = 420 cm
+
+Last 4 students' total:
+
+4 × 75 = 300 cm
+
+All 16 students' total:
+
+16 × 100 = 1,600 cm
+
+Remaining 6 students' total:
+
+1,600 − 420 − 300 = **880 cm**
+
+Average of the remaining 6 students:
+
+880 / 6 = **146.67 cm approximately**
+
+---
+
+## 14. Entry and Exit Approach
+
+This method is useful when a person or observation enters or leaves a group and changes the average.
+
+### Case 1: A New Person Enters
+
+Suppose:
+- Original number of people = \(n\)
+- Original average = \(A\)
+- New person's value = \(x\)
+
+New average:
+
+\[
+\frac{nA+x}{n+1}
+\]
+
+### Case 2: A Person Leaves
+
+Suppose:
+- Original number of people = \(n\)
+- Original average = \(A\)
+- Value of the person leaving = \(x\)
+
+New average:
+
+\[
+\frac{nA-x}{n-1}
+\]
+
+### Example: Cricket Runs
+
+A batsman has an average of \(A\) runs over 11 innings.
+
+In the 12th innings, he scores 100 runs, and his average increases by 5.
+
+Original total = \(11A\)
+
+New average = \(A+5\)
+
+New total = \(12(A+5)\)
+
+Since the new total includes the additional 100 runs:
+
+\[
+12(A+5)=11A+100
+\]
+
+\[
+12A+60=11A+100
+\]
+
+\[
+A=40
+\]
+
+Original average = **40 runs**
+
+New average = **45 runs**
+
+### General Rule
+
+When a new observation is added, the total changes by the value of that observation.
+
+When an observation is removed, subtract its value from the original total.
+
+---
+
+## 15. Average Changes When a New Score Is Added
+
+If a new observation is added to a group:
+
+- If the new value is greater than the old average, the average increases.
+- If the new value is less than the old average, the average decreases.
+- If the new value equals the old average, the average remains unchanged.
+
+### Average Change Formula
+
+If the original group has \(n\) observations and average \(A\), and a new value \(x\) is added:
+
+\[
+\text{New Average}=\frac{nA+x}{n+1}
+\]
+
+Change in average:
+
+\[
+\text{New Average}-A=\frac{x-A}{n+1}
+\]
+
+This shows that the change depends on how far the new value is from the old average.
+
+---
+
+## 16. Finding the Required Score to Change an Average
+
+These questions ask what score is needed in a remaining exam to achieve a target average.
+
+### Method
+
+1. Calculate the total score required for the target average.
+2. Calculate the score already obtained.
+3. Subtract the existing total from the required total.
+
+### Formula
+
+Required Total = Target Average × Total Number of Observations
+
+Required Score = Required Total − Existing Total
+
+### Example
+
+A student has scored 60, 70 and 80 in three exams.
+
+What score is required in the fourth exam to achieve an average of 75?
+
+Required total = 75 × 4 = 300
+
+Existing total = 60 + 70 + 80 = 210
+
+Required fourth score = 300 − 210 = **90**
+
+---
+
+## 17. Average of a Range of Numbers
+
+If you need the average of numbers from \(a\) to \(b\), inclusive, and all integers are included:
+
+\[
+\text{Average}=\frac{a+b}{2}
+\]
+
+Example:
+
+Find the average of all integers from 20 to 40.
+
+Average = (20 + 40) / 2
+
+= **30**
+
+This shortcut works because the numbers are equally spaced.
+
+### Important
+
+For a selected set of numbers, first check whether all integers in the range are included. If some numbers are missing, the shortcut may not apply.
+
+---
+
+## 18. Comparing Partial Averages with the Overall Average
+
+Suppose a group is divided into sections.
+
+If one section's average is below the overall average, that section pulls the overall average downward.
+
+If another section's average is above the overall average, it pulls the overall average upward.
+
+### Highway Interpretation
+
+Think of the overall average as a level road.
+
+- A section average below the overall average creates a negative difference.
+- A section average above the overall average creates a positive difference.
+
+The weighted differences must balance:
+
+\[
+\sum n_i(A_i-A)=0
+\]
+
+Where:
+- \(n_i\) = Number of observations in section \(i\)
+- \(A_i\) = Average of section \(i\)
+- \(A\) = Overall average
+
+### Example
+
+A group has:
+- 2 observations with an average of 30
+- 3 observations with an average of 40
+
+Combined average:
+
+\[
+\frac{2(30)+3(40)}{2+3}
+=\frac{180}{5}
+=\boxed{36}
+\]
+
+The lower average pulls the result down, while the higher average pulls it up.
+
+---
+
+## 19. Temperature and Overlapping-Average Questions
+
+Some questions give averages for overlapping days or groups.
+
+For example:
+- Average temperature from Monday to Thursday.
+- Average temperature from Tuesday to Friday.
+- The ratio of Monday's temperature to Friday's temperature.
+
+### Method
+
+1. Convert each average into a total sum.
+2. Write the sum of each overlapping section.
+3. Subtract the common observations.
+4. Use the remaining relationship to calculate the unknown values.
+
+### Key Principle
+
+If two groups contain common observations, subtracting their sums removes those common observations.
+
+For example:
+
+Monday + Tuesday + Wednesday + Thursday = Sum 1
+
+Tuesday + Wednesday + Thursday + Friday = Sum 2
+
+Subtracting the equations gives:
+
+Friday − Monday = Sum 2 − Sum 1
+
+This is useful when the question asks for the difference between the first and last values.
+
+---
+
+## 20. Common Mistakes
+
+1. Forgetting to divide the sum by the number of observations.
+2. Forgetting that Sum = Average × Number of Observations.
+3. Applying the first-and-last-number shortcut when the gaps are unequal.
+4. Taking the middle number without checking that the sequence is equally spaced.
+5. Averaging group averages without considering group sizes.
+6. Counting the number of observations incorrectly.
+7. Forgetting to include a newly added observation in the new total.
+8. Subtracting a person's value incorrectly when someone leaves a group.
+9. Confusing the old average with the new average.
+10. Including boundary values when a question says strictly between two numbers.
+11. Confusing the sum of cubes with the cube of the sum.
+12. Confusing the sum of squares with the square of the sum.
+13. Forgetting to account for the number of observations in each section.
+14. Mixing the total sum with the average.
+
+---
+
+## 21. Practice Questions
+
+Try solving these questions yourself.
+
+### Question 1
+Find the average of 25, 28, 30 and 32.
+
+### Question 2
+The average of 12 numbers is 24. Find their sum.
+
+### Question 3
+Find the average of 12, 14, 16, 18, 20 and 22.
+
+### Question 4
+Find the average of the multiples of 9 strictly between 14 and 100.
+
+### Question 5
+Find the sum of the first 100 natural numbers.
+
+### Question 6
+Find the sum of the cubes of the first 5 natural numbers.
+
+### Question 7
+The average of 3, 8, 9 and \(x\) is 6. Find \(x\).
+
+### Question 8
+The average of six consecutive odd numbers is 28. Find the largest number.
+
+### Question 9
+10 students have an average of 20, and 8 students have an average of 25. Find the combined average.
+
+### Question 10
+A batsman has an average of \(A\) runs in 11 innings. He scores 100 runs in the 12th innings, increasing his average by 5. Find his original average.
+
+### Question 11
+A student scores 60, 70 and 80 in three exams. What score is needed in the fourth exam to achieve an average of 75?
+
+### Question 12
+Find the average of all integers from 20 to 40, inclusive.
+
+---
+
+## 22. Answers
+
+1. 28.75
+2. 288
+3. 17
+4. 58.5
+5. 5,050
+6. 2,025
+7. 4
+8. 33
+9. \(22.22\ldots\)
+10. 40 runs
+11. 90
+12. 30
+
+---
+
+## 23. Final Revision Sheet
+
+| Situation | Formula or Rule |
+|---|---|
+| Find average | Sum / Number |
+| Find sum | Average × Number |
+| Equal gaps | (First + Last) / 2 |
+| First \(n\) natural numbers: sum | \(n(n+1)/2\) |
+| First \(n\) natural numbers: average | \((n+1)/2\) |
+| Sum of squares | \(n(n+1)(2n+1)/6\) |
+| Sum of cubes | \([n(n+1)/2]^2\) |
+| Add \(k\) to every number | New average = Old average + \(k\) |
+| Subtract \(k\) from every number | New average = Old average − \(k\) |
+| Multiply every number by \(k\) | New average = Old average × \(k\) |
+| Combined average | Total of group sums / Total observations |
+| Missing value | Total sum − Known sum |
+| New observation added | \((nA+x)/(n+1)\) |
+| One observation removed | \((nA-x)/(n-1)\) |
+
+## Most Important Formulas
+
+**1. Average**
+
+\[
+\text{Average}=\frac{\text{Sum}}{\text{Number}}
+\]
+
+**2. Sum**
+
+\[
+\text{Sum}=\text{Average}\times\text{Number}
+\]
+
+**3. Equal-Gap Sequence**
+
+\[
+\text{Average}=\frac{\text{First}+\text{Last}}{2}
+\]
+
+**4. Combined Average**
+
+\[
+\text{Combined Average}
+=\frac{n_1A_1+n_2A_2}{n_1+n_2}
+\]
+
+**5. Sum of First \(n\) Natural Numbers**
+
+\[
+\frac{n(n+1)}{2}
+\]
+
+**6. Sum of Squares**
+
+\[
+\frac{n(n+1)(2n+1)}{6}
+\]
+
+**7. Sum of Cubes**
+
+\[
+\left(\frac{n(n+1)}{2}\right)^2
+\]
+
+Remember: the most important skill in average questions is identifying the total sum, counting the observations correctly, and choosing the appropriate shortcut.
+
+
 # Average – Complete Notes (Hinglish)
 
 > Source: Viral Maths – Complete Average in one shot.
