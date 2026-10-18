@@ -1,3 +1,642 @@
+# Time and Work – Complete Notes
+
+## 1. What Is Time and Work?
+
+Time and Work is a mathematics topic that deals with:
+- Total work
+- Time taken to complete work
+- Efficiency of a person
+- People working together
+- People joining or leaving a job
+- Work completed in parts
+- Men, women, children, and working hours
+
+The main concept is:
+
+**Work = Efficiency × Time**
+
+For example, if a person makes 20 toys in one day, then in 10 days:
+
+Total Work = 20 × 10 = 200 toys
+
+Here:
+- Efficiency = 20 toys per day
+- Time = 10 days
+- Total Work = 200 toys
+
+---
+
+## 2. Important Terms
+
+### A. Total Work
+
+The complete amount of work that needs to be done.
+
+Examples:
+- Making 100 toys
+- Completing a project
+- Building a wall
+
+### B. Time
+
+The time required to complete the work.
+
+It may be measured in:
+- Seconds
+- Minutes
+- Hours
+- Days
+- Months
+
+### C. Efficiency
+
+Efficiency means the amount of work completed in one unit of time.
+
+Formula:
+
+Efficiency = Total Work / Time
+
+For example, if a person completes 100 units of work in 10 days:
+
+Efficiency = 100 / 10 = 10 units per day
+
+**Remember:** Work done in one day, one hour, or one minute is the efficiency for that unit of time.
+
+---
+
+## 3. Three Most Important Formulas
+
+The main formula is:
+
+Work = Efficiency × Time
+
+From this, we get:
+
+1. Total Work = Efficiency × Time
+2. Efficiency = Total Work / Time
+3. Time = Total Work / Efficiency
+
+These three formulas are the foundation of the chapter.
+
+---
+
+## 4. The LCM Method
+
+When the time taken by different people to complete the same work is given, we can assume:
+
+**Total Work = LCM of their individual completion times**
+
+This makes calculations easier when the times are whole numbers.
+
+### Example
+
+A can complete a job in 10 days.
+B can complete the same job in 20 days.
+
+Step 1: Find the LCM.
+
+LCM of 10 and 20 = 20
+
+Assume Total Work = 20 units.
+
+Step 2: Find individual efficiencies.
+
+A's Efficiency = 20 / 10 = 2 units per day
+
+B's Efficiency = 20 / 20 = 1 unit per day
+
+Step 3: Add their efficiencies.
+
+Combined Efficiency = 2 + 1 = 3 units per day
+
+Step 4: Find the time taken together.
+
+Time = Total Work / Combined Efficiency
+
+Time = 20 / 3 days
+
+**Answer = 6⅔ days**
+
+### Important Note
+
+Choose a convenient total work that is divisible by the individual completion times. The LCM is usually the easiest choice.
+
+---
+
+## 5. When Multiple People Work Together
+
+When people work together, add their efficiencies.
+
+### Formula
+
+Combined Efficiency = A's Efficiency + B's Efficiency
+
+Time Taken = Total Work / Combined Efficiency
+
+### Example
+
+A completes a job in 12 days.
+B completes the same job in 6 days.
+
+Assume Total Work = LCM(12, 6) = 12 units.
+
+A's Efficiency = 12 / 12 = 1 unit per day
+
+B's Efficiency = 12 / 6 = 2 units per day
+
+Combined Efficiency = 1 + 2 = 3 units per day
+
+Time = 12 / 3 = 4 days
+
+**Answer: 4 days**
+
+### Three People Working Together
+
+If A, B, and C work together:
+
+Combined Efficiency = A + B + C
+
+Time = Total Work / (A + B + C)
+
+Always use their efficiencies, not their completion times, when adding their contributions.
+
+---
+
+## 6. Relationship Between Time and Efficiency
+
+For the same total work:
+
+**Time and Efficiency are inversely proportional.**
+
+This means:
+- Higher efficiency → Less time
+- Lower efficiency → More time
+
+### Important Formula
+
+If the ratio of A's time to B's time is:
+
+A's Time : B's Time = a : b
+
+Then:
+
+A's Efficiency : B's Efficiency = b : a
+
+The ratio is reversed.
+
+### Example
+
+A completes work in 10 days.
+B completes the same work in 20 days.
+
+Time ratio = 10 : 20 = 1 : 2
+
+Efficiency ratio = 2 : 1
+
+A is twice as efficient as B.
+
+---
+
+## 7. Work Done in a Given Number of Days
+
+If the efficiency of a person is known:
+
+Work Done = Efficiency × Number of Days
+
+### Example
+
+A's efficiency is 4 units per day.
+
+How much work will A complete in 5 days?
+
+Work Done = 4 × 5 = 20 units
+
+If the total work is 60 units:
+
+Remaining Work = 60 − 20 = 40 units
+
+---
+
+## 8. When Someone Leaves After Working for Some Days
+
+In these questions:
+1. Find the total work.
+2. Find each person's efficiency.
+3. Calculate the work completed before the person leaves.
+4. Subtract it from the total work.
+5. Divide the remaining work by the efficiency of the person who continues.
+
+### Example
+
+A can complete a job in 16 days.
+B can complete it in 12 days.
+
+They work together for 4 days. Then A leaves.
+
+How many more days will B need?
+
+Step 1: Total Work
+
+LCM(16, 12) = 48 units
+
+Step 2: Efficiencies
+
+A = 48 / 16 = 3 units per day
+
+B = 48 / 12 = 4 units per day
+
+Step 3: Combined Efficiency
+
+3 + 4 = 7 units per day
+
+Step 4: Work completed in 4 days
+
+7 × 4 = 28 units
+
+Step 5: Remaining Work
+
+48 − 28 = 20 units
+
+Step 6: Time taken by B
+
+20 / 4 = 5 days
+
+**Answer: B needs 5 more days.**
+
+Total elapsed time = 4 + 5 = 9 days.
+
+**Important:** Check whether the question asks for the remaining time or the total time.
+
+---
+
+## 9. When Someone Leaves Before the Work Is Completed
+
+The same remaining-work method applies.
+
+### Steps
+
+1. Find the total work.
+2. Calculate the combined efficiency.
+3. Calculate the work completed before the person leaves.
+4. Subtract the completed work from the total.
+5. Divide the remaining work by the efficiency of the person who stays.
+
+### Example
+
+Total work = 48 units.
+
+A's efficiency = 3 units per day.
+B's efficiency = 4 units per day.
+
+They work together for 4 days. A then leaves.
+
+Work completed = (3 + 4) × 4 = 28 units
+
+Remaining work = 48 − 28 = 20 units
+
+B's remaining time = 20 / 4 = 5 days
+
+Total time = 4 + 5 = 9 days.
+
+---
+
+## 10. When Someone Joins Later
+
+When a new person joins:
+1. Calculate the work completed before they join.
+2. Subtract it from the total work.
+3. Add the efficiencies of everyone working after they join.
+4. Calculate the remaining time.
+
+### Formula
+
+Remaining Time = Remaining Work / New Combined Efficiency
+
+If A works alone initially and B joins later:
+
+- Initial efficiency = A's efficiency
+- New efficiency = A's efficiency + B's efficiency
+
+Be careful about when the second person starts working.
+
+---
+
+## 11. Working Lines
+
+A working line is a helpful way to track work when people join or leave.
+
+Draw a timeline and mark:
+- Total work
+- Who works during each period
+- Duration of each period
+- Work completed during each period
+- Remaining work
+
+### Example Structure
+
+Total Work = 100 units
+
+Period 1:
+A and B work together for 4 days.
+
+Work completed = (A's efficiency + B's efficiency) × 4
+
+Period 2:
+A leaves, and B finishes the remaining work.
+
+Remaining Work = Total Work − Work completed in Period 1
+
+Time in Period 2 = Remaining Work / B's efficiency
+
+Total Time = Period 1 + Period 2
+
+**Tip:** Draw a working line whenever the question contains words such as:
+- After
+- Before
+- Leaves
+- Joins
+- Remaining work
+- Together for some days
+
+---
+
+## 12. Fraction of Work
+
+Sometimes a question states that a person or group completes a fraction of the work in a certain time.
+
+### Formula
+
+If a person completes `a/b` of the work in `T` days:
+
+Time for the whole work = T × b/a
+
+### Example
+
+A completes 2/5 of a job in 4 days.
+
+Time for the complete job:
+
+= 4 × 5/2
+
+= 10 days
+
+### Another Example
+
+A and B together complete 8/15 of a job in 5 days.
+
+Time for the whole job:
+
+= 5 × 15/8
+
+= 75/8 days
+
+= 9⅜ days
+
+If the question asks how long B alone takes, you need additional information about B's efficiency or the remaining-work arrangement.
+
+**Important:** Read whether the question asks for:
+- A fraction of the work
+- The remaining work
+- The complete work
+
+Do not confuse these three.
+
+---
+
+## 13. Efficiency Ratios
+
+Efficiency ratios are useful when the question says that one person is twice or three times as efficient as another.
+
+### Example
+
+A is twice as efficient as B.
+
+If B's efficiency is 1 unit per day:
+
+A's efficiency = 2 units per day
+
+Efficiency ratio:
+
+A : B = 2 : 1
+
+### Another Example
+
+A is three times as efficient as B.
+
+Efficiency ratio:
+
+A : B = 3 : 1
+
+If the ratio is given, use convenient numbers that satisfy the ratio.
+
+For example, if A : B = 4 : 3, assume:
+- A's efficiency = 4 units per day
+- B's efficiency = 3 units per day
+
+These are relative values; they do not necessarily represent actual units until the total work or another condition is known.
+
+---
+
+## 14. Men, Women, and Children
+
+Some questions compare the work done by different categories of workers.
+
+The main principle remains the same:
+
+**Total Work = Total Efficiency × Time**
+
+If the efficiency of one man, one woman, and one child is known, calculate the combined efficiency by adding the contributions of the required workers.
+
+### Example Structure
+
+Suppose:
+- One man has efficiency M.
+- One woman has efficiency W.
+- One child has efficiency C.
+
+Then:
+
+Efficiency of 2 men and 3 women = 2M + 3W
+
+Efficiency of 1 man, 2 women, and 1 child:
+
+= M + 2W + C
+
+If total work is known:
+
+Time = Total Work / Combined Efficiency
+
+**Important:** Do not assume that a man, woman, or child has a particular efficiency unless the question provides the relationship.
+
+---
+
+## 15. Men, Days, and Hours
+
+For questions involving the number of workers, days, and hours, use the idea that total work depends on the total worker-time contribution, assuming the workers have equal efficiency and work at the same rate.
+
+### Basic Relationship
+
+Work ∝ Number of Workers × Days × Hours per Day
+
+For the same work:
+
+M₁ × D₁ × H₁ = M₂ × D₂ × H₂
+
+Where:
+- M = Number of workers
+- D = Number of days
+- H = Working hours per day
+
+### Example
+
+10 workers complete a job in 6 days, working 8 hours per day.
+
+How many days will 20 equally efficient workers need if they work 6 hours per day?
+
+Use:
+
+10 × 6 × 8 = 20 × D × 6
+
+480 = 120D
+
+D = 4 days
+
+**Answer: 4 days**
+
+This relationship assumes the same kind of work and equal individual efficiency.
+
+---
+
+## 16. Important Shortcuts
+
+### Shortcut 1: Same Work
+
+For the same work:
+
+Time Ratio = Reverse of Efficiency Ratio
+
+### Shortcut 2: Work Together
+
+Add efficiencies first.
+
+Then:
+
+Time = Total Work / Combined Efficiency
+
+### Shortcut 3: Someone Leaves
+
+Remaining Work = Total Work − Work Already Completed
+
+Remaining Time = Remaining Work / Efficiency of the people who stay
+
+### Shortcut 4: Someone Joins
+
+New Combined Efficiency = Old Efficiency + New Person's Efficiency
+
+Use it only from the time the new person starts working.
+
+### Shortcut 5: Fraction of Work
+
+If `a/b` of the work takes T days:
+
+Whole-work time = T × b/a
+
+### Shortcut 6: LCM
+
+When individual completion times are given, the LCM is usually a convenient choice for total work.
+
+### Shortcut 7: Check the Wording
+
+- "How many more days?" → Remaining time
+- "How many days in total?" → Include the earlier days
+- "After 4 days" → The first period lasts 4 days
+- "Before completion" → Track the remaining work carefully
+
+---
+
+## 17. Common Mistakes
+
+1. Adding completion times instead of efficiencies.
+2. Forgetting to reverse the time ratio to obtain the efficiency ratio.
+3. Forgetting to subtract completed work from total work.
+4. Using the combined efficiency after a person has left.
+5. Adding the initial days when the question asks only for remaining days.
+6. Forgetting to include initial days when the question asks for total elapsed time.
+7. Treating a fraction of work as if it were the whole work.
+8. Using the wrong person's efficiency for the remaining work.
+9. Mixing hours and days without converting the units.
+10. Assuming workers have equal efficiency when the question does not say so.
+
+---
+
+## 18. Practice Questions
+
+Try solving these using the formulas above.
+
+### Question 1
+A completes a job in 10 days. B completes the same job in 20 days. How long will they take together?
+
+### Question 2
+A completes a job in 12 days and B in 6 days. Find their combined completion time.
+
+### Question 3
+A completes a job in 16 days and B in 12 days. They work together for 4 days, then A leaves. How many more days does B need?
+
+### Question 4
+A completes 2/5 of a job in 4 days. How many days will A need to complete the whole job?
+
+### Question 5
+A and B have efficiencies in the ratio 3:2. If A's efficiency is 12 units per day, what is B's efficiency?
+
+### Question 6
+10 workers complete a job in 6 days, working 8 hours per day. How many days will 20 equally efficient workers take if they work 6 hours per day?
+
+### Question 7
+A's time to complete a job is 8 days, and B's time is 12 days. Find their efficiency ratio.
+
+### Question 8
+A and B together complete 7 units of work per day. If the total work is 56 units, how long will they take?
+
+---
+
+## 19. Answers
+
+1. 20/3 days = 6⅔ days
+2. 4 days
+3. 5 more days
+4. 10 days
+5. 8 units per day
+6. 4 days
+7. A : B = 12 : 8 = 3 : 2
+8. 56/7 = 8 days
+
+---
+
+## 20. Final Revision Sheet
+
+| Concept | Formula |
+|---|---|
+| Total Work | Efficiency × Time |
+| Efficiency | Total Work / Time |
+| Time | Total Work / Efficiency |
+| Combined Efficiency | Sum of individual efficiencies |
+| Remaining Work | Total Work − Completed Work |
+| Remaining Time | Remaining Work / Remaining Efficiency |
+| Fraction of work | Whole-work time = Given time × Denominator / Numerator |
+| Same work: time and efficiency | Inversely proportional |
+| Time ratio | Reverse of efficiency ratio |
+| Workers, days, hours | M₁D₁H₁ = M₂D₂H₂ for the same work |
+
+**Best strategy for Time and Work questions:**
+
+1. Identify what the question gives you.
+2. Choose a convenient total work, often the LCM of the completion times.
+3. Calculate individual efficiencies.
+4. Add efficiencies for people working together.
+5. Calculate completed and remaining work for each time period.
+6. Divide remaining work by the correct efficiency.
+7. Read the question again to confirm whether it asks for remaining time or total time.
+
 # Time & Work – Complete Notes (Hinglish)
 
 > Source: Viral Maths – Time & Work one-stop session.
